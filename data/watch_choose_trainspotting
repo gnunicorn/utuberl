@@ -1,0 +1,2332 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+
+
+	<html lang="es">
+
+<!-- machid: WkFSZzctYUFHdmd4aGlrSy1YbDFfZDlqTmxMSkE1VjVzZTdjWDB2R0xReGpVZW1nYWczYzV3 -->
+<head>
+
+	
+	<title>YouTube - Choose (Trainspotting)</title>
+
+			<link rel="stylesheet" type="text/css" href="http://s.ytimg.com/yt/cssbin/www-core-vfl109203.css"/>
+
+
+		
+		
+		
+
+
+
+
+	
+
+
+
+
+		<script type="text/javascript" src="http://s.ytimg.com/yt/js/base_all_with_bidi-vfl109280.js"></script>
+
+
+		
+
+
+		<script type="text/javascript">
+			var gIsGoogleAnalyticsEnabled = false;
+			
+	var gXSRF_token = '';
+	var gXSRF_field_name = '';
+	var gXSRF_ql_pair = '';
+	var onLoadFunctionList = onLoadFunctionList || [];
+
+		gXSRF_token = 'zwqQrMOoyH41-C0R4HrJHjiwHDN8MTI0ODAwMDQ1OA==';
+		gXSRF_field_name = 'session_token';
+		onLoadFunctionList.push(function() { populate_session_token() });
+
+
+		gXSRF_ql_pair = 'session_token=Z2WHf6_dS-AwwPvFXZ53Omr8qZN8MA==';
+
+
+
+
+
+		</script>
+
+		
+	
+
+
+
+
+
+
+
+	<script type="text/vbscript">
+	Sub movie_player_FSCommand(ByVal command, ByVal args)
+		call movie_player_DoFSCommand(command, args)
+	End Sub
+	</script>
+
+
+	<script type="text/javascript">
+		var MSG_Hide = 'Ocultar';
+		var MSG_Show = 'Mostrar';
+		var MSG_Login = 'Accede para realizar esta operación.';
+		var MSG_Loading = 'Cargando...';
+		var MSG_ShowingAll = 'Mostrar todos los vídeos';
+		var MSG_LoginFavorites = 'Debes haber iniciado sesión para añadir este vídeo a tus favoritos.';
+		var MSG_LoginAddPlaylist = 'Debes haber iniciado sesión para añadir este vídeo a una lista de reproducción.';
+		var MSG_LoginReportConcern = 'Debes haber iniciado sesión para notificar un problema.';
+		var MSG_FlagDefault = 'Seleccionar un motivo';
+
+
+
+			var swfUrl = canPlayV9Swf() ? "http://s.ytimg.com/yt/swf/watch-vfl109208.swf" : "http://s.ytimg.com/yt/swf/watch_v8-vfl109208.swf";
+
+
+
+		var swfArgs = {"usef": 0, "watermark": "http://s.ytimg.com/yt/swf/logo-vfl106645.swf,http://s.ytimg.com/yt/swf/hdlogo-vfl100714.swf", "video_id": "DbGhC47NSmY", "l": 40, "fmt_map": "34/0/9/0/115,5/0/7/0/0", "sk": "5ZMKEyg9slEOGqc6t8sV_5pRvFwMnEtyC", "is_doubleclick_tracked": "1", "vq": null, "t": "vjVQa1PpcFNummQNMn_WSQS2iU_yxg7LitkZM5YkHdw=", "hl": "es", "plid": "AARu-KIuah0jVIld", "keywords": "animation%2Ctrainspotting%2Ctypography%2Ckinetic", "cr": "ES", "fmt_url_map": "34%7Chttp%3A//v18.lscache8.googlevideo.com/videoplayback%3Fip%3D0.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Cburst%252Cfactor%26itag%3D34%26ipbits%3D0%26signature%3D675CD6DFB49CD5103858DE869FA2E803A20BEE93.8533CD4A7923882A44BF65091D32BFF169A0E27F%26sver%3D3%26expire%3D1247936400%26key%3Dyt1%26factor%3D1.25%26burst%3D40%26id%3D0db1a10b8ecd4a66%2C5%7Chttp%3A//v21.lscache6.googlevideo.com/videoplayback%3Fip%3D0.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Cburst%252Cfactor%26itag%3D5%26ipbits%3D0%26signature%3D5C7363B19FD23142A767CD27312ECF43BE7C997A.8F17143CC88D86CBA8F78B8E3526874E94884425%26sver%3D3%26expire%3D1247936400%26key%3Dyt1%26factor%3D1.25%26burst%3D40%26id%3D0db1a10b8ecd4a66"};
+		var watchGamUrl = null;
+		var watchDCUrl = null;
+		var expressInstallUrl = null;
+		var ad_eurl = null;
+		var watchIsPlayingAll = false;
+		var isWidescreen = false;
+		var watchSetWmode = false;
+		var isHDAvailable = false;
+		var widePlayerStyles = 		["watch-wide-mode"]
+;
+
+		var embedUrl = 'http://www.youtube.com/v/DbGhC47NSmY&hl=es&fs=1';
+		var fullscreenUrl = '/watch_fullscreen?fs=1&watermark=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Flogo-vfl106645.swf%2Chttp%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fhdlogo-vfl100714.swf&video_id=DbGhC47NSmY&l=40&fmt_map=34%2F0%2F9%2F0%2F115%2C5%2F0%2F7%2F0%2F0&sk=5ZMKEyg9slEOGqc6t8sV_5pRvFwMnEtyC&is_doubleclick_tracked=1&vq=None&t=vjVQa1PpcFNummQNMn_WSQS2iU_yxg7LitkZM5YkHdw%3D&hl=es&plid=AARu-KIuah0jVIld&keywords=animation%252Ctrainspotting%252Ctypography%252Ckinetic&cr=ES&fmt_url_map=34%257Chttp%253A%2F%2Fv18.lscache8.googlevideo.com%2Fvideoplayback%253Fip%253D0.0.0.0%2526sparams%253Did%25252Cexpire%25252Cip%25252Cipbits%25252Citag%25252Cburst%25252Cfactor%2526itag%253D34%2526ipbits%253D0%2526signature%253D675CD6DFB49CD5103858DE869FA2E803A20BEE93.8533CD4A7923882A44BF65091D32BFF169A0E27F%2526sver%253D3%2526expire%253D1247936400%2526key%253Dyt1%2526factor%253D1.25%2526burst%253D40%2526id%253D0db1a10b8ecd4a66%252C5%257Chttp%253A%2F%2Fv21.lscache6.googlevideo.com%2Fvideoplayback%253Fip%253D0.0.0.0%2526sparams%253Did%25252Cexpire%25252Cip%25252Cipbits%25252Citag%25252Cburst%25252Cfactor%2526itag%253D5%2526ipbits%253D0%2526signature%253D5C7363B19FD23142A767CD27312ECF43BE7C997A.8F17143CC88D86CBA8F78B8E3526874E94884425%2526sver%253D3%2526expire%253D1247936400%2526key%253Dyt1%2526factor%253D1.25%2526burst%253D40%2526id%253D0db1a10b8ecd4a66&title=Choose (Trainspotting)';
+		var additionalStatsHonorsUrl = '/watch_ajax?v=DbGhC47NSmY&action_get_statistics_and_data=1&l=EN';
+
+		var watchUsername = 'destrado04';
+		var pageVideoId = 'DbGhC47NSmY';
+		var pageVideoSearchQueryStr = 'animation trainspotting typography kinetic';
+		var playnextFrom = '';
+		var playnextCount = '0';
+		var qlAutoscrollDestination = 0;
+		var ytLocale = 'es_ES';
+		var isPlaylistCssAndJsLoaded = false;
+		var axc = '';
+		var subscribeaxc = '';
+		var isLoggedIn =  false ;
+
+
+			function showCommentReplyForm(form_id, reply_parent_id, is_main_comment_form) {
+		var msg = new Object();
+		msg["post"] = "Accede a tu cuenta para publicar un comentario.";
+		showCommentReplyForm_js(form_id, reply_parent_id, is_main_comment_form, msg);
+	}
+
+	function updateCharCount(charCount_id, label_id, textArea) {
+		var msg = new Object();
+		msg["exceeded"] = "Número de caracteres que superan el límite:";
+		msg["remaining"] = "Número de caracteres restantes:"; 
+		updateCharCount_js(charCount_id, label_id, textArea, 500, msg)
+	}
+
+	function loginMsg(div_id, display_val) {
+		var msg = new Object();
+		msg["login"] = 'Accede a tu cuenta.';
+		loginMsg_js(div_id, display_val, msg);
+	}
+
+	function printCommentReplyForm(form_id, reply_parent_id, is_main_comment_form) {
+		var msg = new Object();
+		msg["post"] = "Publicar comentario";
+		msg["remaining"] = "Número de caracteres restantes:";
+		msg["discard"] = "Descartar"; 
+		printCommentReplyForm_js(form_id, reply_parent_id, is_main_comment_form, 'V', 'top.goog.i18n.bidi.setDirAttribute(event,this)', 'video_id', 'DbGhC47NSmY', '', 500, msg);
+	}
+
+	function postThreadedComment(comment_form_id) {
+		var msg = new Object();
+		msg["add"] = "Añadiendo comentario...";
+		postThreadedComment_js(comment_form_id, msg);
+	}
+
+	function commentApproved(xmlHttpRequest) {
+		alert("El comentario se ha aprobado.")
+	}
+
+	function ThreadedCommentHandler(comment_form, comment_form_id) {
+		var msg = new Object();
+		msg["empty"] = "Debes introducir un comentario.";
+		msg["toolong"] = "Tu comentario no puede tener más de 500 caracteres.";
+		return ThreadedCommentHandler_js(comment_form, comment_form_id, msg);
+	}
+
+	function commentResponse(xmlHttpRequest) {
+		var msg = new Object();
+		msg["ok"] = "Comentario publicado.";
+		msg["pending"] = "Comentario pendiente de aprobación.";
+		msg["toolong"] = "El comentario que has introducido es demasiado largo. No puede contener más de 500 caracteres. Escribe un comentario más corto e inténtalo de nuevo.";
+		msg["tooshort"] = "El comentario que has introducido es demasiado corto. Escribe un comentario más largo e inténtalo de nuevo.";
+		msg["toosoon"] = "Se ha superado el límite de comentarios.";
+		msg["email"] = "Para poder enviar comentarios debes confirmar tu dirección de correo electrónico. Haz clic en Aceptar para confirmar tu dirección de correo electrónico.";
+		msg["captchFail"] = "La respuesta a las letras de la imagen no ha sido correcta. Vuelve a intentarlo.";
+		msg["koreaFail"] = "본인확인제로 인해 한국 국가 설정시 동영상/댓글 업로드 기능을 자발적으로 비활성화합니다.  We have voluntarily disabled this functionality on kr.youtube.com because of the Korean real-name verification law.";
+		msg["default"] = "Publicar comentario"; 
+		commentResponse_js(xmlHttpRequest, msg);
+	}
+
+
+
+
+
+
+		onLoadFunctionList.push(function() { if (_gel('watch-customize-embed-div')) { generateEmbed(); } });
+
+
+		onLoadFunctionList.push(function() { enableVideoQualityDisplay() });
+
+		onLoadFunctionList.push(function(event) {
+			url = document.location.href;
+			if (url.match('#fav')) {
+				document.location.href = url.replace('#fav', '#');
+				addToFaves('addToFavesForm');
+			}
+		});
+
+
+
+
+
+
+
+
+
+	</script>
+
+
+
+
+
+
+		<style type="text/css">
+#flash10-promo-div {
+				display: none;
+				background-color: #ffffcc;
+				font-size: 12px;
+				padding: 5px;
+				text-align: left;
+				border:1px solid #FFCC33;
+				border-top: 0px;
+			}
+		</style>
+
+
+
+
+	
+	
+
+	
+
+
+	<link rel="search" type="application/opensearchdescription+xml" href="/opensearch?locale=es_ES" title="Búsqueda de vídeos en YouTube">
+	<link rel="icon" href="http://s.ytimg.com/yt/favicon-vfl86530.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://s.ytimg.com/yt/favicon-vfl86530.ico" type="image/x-icon">
+		<link rel="canonical" href="/watch?v=DbGhC47NSmY"/>
+
+<link rel="alternate" type="application/rss+xml" href="http://gdata.youtube.com/feeds/base/videos/DbGhC47NSmY/related?client=ytapi-youtube-watch&v=2" title="YouTube - Choose (Trainspotting)Vídeos relacionados">
+
+		<link rel="alternate" media="handheld" href="http://m.youtube.com/watch?desktop_uri=%2Fwatch%3Fv%3DDbGhC47NSmY&v=DbGhC47NSmY&gl=ES">
+
+
+		<meta name="title" content="Choose (Trainspotting)">
+
+		<meta name="description" content="animating the opening lines to trainspotting with some good o' fashioned type-graphics---better quality (where the background is actually visible): http://vi...">
+
+	<meta name="keywords" content="animation, trainspotting, typography, kinetic">
+
+</head>
+
+
+<body class="es_ES not-english" onload="performOnLoadFunctions();"  onunload="performOnUnloadFunctions();">
+
+
+
+
+
+
+
+
+
+
+
+<div id="baseDiv" class="date-20090718 video-info  ">
+
+
+	
+
+	<!-- begin top section -->
+			<div id="masthead">
+		<div id="masthead-inner">
+					<a href="/" onmousedown="urchinTracker('/Events/Header_3/YouTubeLogo');" id="logo"><button onclick="window.top.location.href='/'; return false;" class="master-sprite" title=""></button></a>
+			<div id="region-and-language-picker-links-wrapper">
+				<button id="slogan" class="master-sprite" title=""></button>
+						<span class="util-item first with-flag"><a href="#" class="region-picker-link hLink" onclick="loadFlagImgs('region-picker-box'); return false;" onmousedown="urchinTracker('/Events/Header/UtilLinks/I18n/text');">España</a></span>
+	<span class="util-item"><a href="#" class="language-picker-link hLink" onclick="loadFlagImgs('language-picker-box'); return false;" onmousedown="urchinTracker('/Events/Header/UtilLinks/I18n/text');">Español</a></span>
+
+			</div>
+			<div class="user-info">
+					
+
+
+
+	<div id="util-links" class="normal-utility-links">
+
+
+			<span class="util-item first"><b><a class="hLink" href="/signup?next=/watch%3Fv%3DDbGhC47NSmY" onmousedown="urchinTracker('/Events/Header/UtilLinks/SignUp');">
+Registrarse
+
+		</a></b></span>
+			<span class="util-item"><a class="hLink" href="/watch_queue?all" onmousedown="urchinTracker('/Events/Header/UtilLinks/QuickList');">Lista rápida</a> (<span id="quicklist-utility">0</span>)</span>
+		<span class="util-item"><a class="hLink" href="http://www.google.com/support/youtube/bin/static.py?page=start.cs&hl=es-ES" onmousedown="urchinTracker('/Events/Header/UtilLinks/Help');">Ayuda</a></span>
+
+
+			<span class="util-item"><a class="hLink" href="/login?next=/" onmousedown="urchinTracker('/Events/Header/UtilLinks/SignIn');">Acceder</a></span>
+
+
+	</div>
+
+	<form name="logoutForm" method="post" target="_top" action="/index">
+		<input type="hidden" name="action_logout" value="1">
+	</form>
+
+
+
+			</div>
+			<div id="masthead-region-and-language-picker-box" style="display: none;">Cargando...</div>
+			<div class="clear"></div>
+		</div>
+		
+		<div id="bar" class="master-sprite">
+			<div id="bar-inner">
+					
+					<a class="master-sprite nav-item" href="/" onmousedown="urchinTracker('/Events/Header_3/MainTabs/HomeTab');">Inicio</a>
+
+
+					<a class="master-sprite nav-item" href="/browse" onmousedown="urchinTracker('/Events/Header_3/MainTabs/VideosTab');">Vídeos</a>
+
+
+					<a class="master-sprite nav-item" href="/members" onmousedown="urchinTracker('/Events/Header_3/MainTabs/ChannelsTab');">Canales</a>
+
+					<a class="master-sprite nav-item" href="/community" onmousedown="urchinTracker('/Events/Header_3/MainTabs/CommunityTab');">Comunidad</a>
+					
+
+				<div id="masthead-bar-contents">
+					
+	<form autocomplete="off" class="search-form" action="/results" method="get" name="searchForm">
+		<input id="masthead-search-term" class="search-term" name="search_query" type="text" tabindex="1" onkeyup = "top.goog.i18n.bidi.setDirAttribute(event,this)"  value="" maxlength="128"  onfocus="addClass(this, 'search-term-focus')" onblur="removeClass(this, 'search-term-focus')">
+			<input id="search-type-masthead" name="search_type" type="hidden" value="">
+	<a class="yt-button yt-button-primary" id="" style="" href="#" onclick="document.searchForm.submit(); return false;"><span>Buscar</span></a>
+
+	</form>
+
+							<span class="yt-menubutton yt-menubutton-urgent" id="upload-button" style="" onmouseenter="this.className += ' yt-menubutton-urgent-hover';" onmouseleave="this.className = this.className.replace(' yt-menubutton-urgent-hover', '');"><a class="yt-menubutton-btn yt-button yt-button-urgent" href="/my_videos_upload" onclick="urchinTracker('/Events/Header/UploadButton');"><span>Subir</span></a><a class="yt-menubutton-arr yt-button yt-button-urgent" href="/my_videos_upload" onclick="urchinTracker('/Events/Header/UploadButton');"><button></button><span></span></a><ul class="yt-menubutton-menu"><li><a href="/my_videos_upload" onclick="urchinTracker('/Events/Header/UploadButton');">Subir archivo de vídeo</a></li><li><a href="/my_webcam" onclick="urchinTracker('Events/Header/WebcamButton');">Grabar de cámara web</a></li></ul>  </span>  
+
+				</div>
+				<div class="clearL"></div>
+			</div>	
+		</div>	
+
+		<div class="clear"></div>
+	</div> 
+
+
+			<style type="text/css">
+		.errorParagraph {
+			margin-top: 0px;
+			margin-bottom: 10px;
+		}
+	</style>
+	<div id="default-language-box" style="margin: 10px 0 20px 0; text-align: left; padding: 8px 10px; background-color: #e6efff; border: 1px solid #aeaed5; font-size: 13px;">
+		<div id="default-language-top">
+			<div class="box-close-link"><a href="/watch?v=DbGhC47NSmY&amp;opt_out_ackd=1hl=es&amp;persist_hl=1&amp;gl=ES&amp;persist_gl=1" class="eLink">Cerrar</a><img alt="Cerrar" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" onclick="hideDiv('default-language-box');"></div>
+			<div id="default-language-translated">
+					<p class="errorParagraph"><strong>¡Bienvenido/a a YouTube!</strong> </p>
+					
+					<p class="errorParagraph"><strong>Sugerencia de idioma (preferencia establecida):</strong>  Español (España)</p>
+					
+					<p class="errorParagraph"><strong>Sugerencia de filtro de país (preferencia establecida):</strong>  España</p>
+					
+					<p class="errorParagraph">El filtro de país muestra tus vídeos populares del país seleccionado en los resultados de búsqueda y en una serie de listas (por ejemplo, <a href="/browse?s=mp">Más vistos</a>).Si deseas cambiar cualquiera de estas preferencias, utiliza los enlaces situados en la parte superior de la página junto al logotipo de YouTube.</p>
+					
+					<p class="errorParagraph">Haz clic en "Aceptar" para aceptar esta configuración o en "Cancelar" para establecer "Inglés (Estados Unidos)" como preferencia de idioma y "Mundial (todos)" como filtro de país.</p>
+								<div style="padding-left: 350px;">
+					<div style="width: 250px;">
+							<a class="yt-button yt-button-urgent" id="" style="" href="/watch?v=DbGhC47NSmY&amp;opt_out_ackd=1hl=es&amp;persist_hl=1&amp;gl=ES&amp;persist_gl=1" onclick=""><span>Aceptar</span></a>
+							<a class="yt-button" id="" style="" href="/watch?v=DbGhC47NSmY&amp;opt_out_ackd=1&amp;hl=en&amp;persist_hl=1&amp;gl=US&amp;persist_gl=1" onclick=""><span>Cancelar</span></a>
+					</div>
+				</div>
+
+			</div>
+			<div id="default-language-english" style="display: none;">
+				<br>
+					<p class="errorParagraph"><strong>Welcome to YouTube!</strong> </p>
+					
+					<p class="errorParagraph"><strong>Suggested Language (we have set your preference to this):</strong> Spanish</p>
+					
+					<p class="errorParagraph"><strong>Suggested Country Filter (we have set your preference to this):</strong> Spain</p>
+					
+					<p class="errorParagraph">The country filter shows you popular videos from the selected country on lists like <a href="/browse?s=mp">Most Viewed</a> and in search results. If you would like to change either of these preferences, please use the links next to the YouTube logo at the top of the page.</p>
+					
+					<p class="errorParagraph">Click &quot;OK&quot; to accept these settings, or click &quot;Cancel&quot; to set your language preference to &quot;English (US)&quot; and your country filter to &quot;Worldwide (All)&quot;.</p>
+
+								<div style="padding-left: 350px;">
+					<div style="width: 250px;">
+							<a class="yt-button yt-button-urgent" id="" style="" href="/watch?v=DbGhC47NSmY&amp;opt_out_ackd=1hl=es&amp;persist_hl=1&amp;gl=ES&amp;persist_gl=1" onclick=""><span>Aceptar</span></a>
+							<a class="yt-button" id="" style="" href="/watch?v=DbGhC47NSmY&amp;opt_out_ackd=1&amp;hl=en&amp;persist_hl=1&amp;gl=US&amp;persist_gl=1" onclick=""><span>Cancelar</span></a>
+					</div>
+				</div>
+
+			</div>
+				<div id="default-language-english-show-link">
+					<a href="#" style="font-size: 10px; text-decoration: none;" onclick="toggleDisplay2('default-language-english-show-link'); toggleDisplay2('default-language-english-hide-link'); toggleDisplay2('default-language-english'); return false;">Show message in English</a>
+				</div>
+				<div id="default-language-english-hide-link" style="display: none;">
+					<a href="#" style="font-size: 10px; text-decoration: none;" onclick="toggleDisplay2('default-language-english-hide-link'); toggleDisplay2('default-language-english'); toggleDisplay2('default-language-english-show-link'); return false;">Hide message in English</a>
+				</div>
+
+			<div class="clear"></div>
+		</div>
+	</div>
+
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="watch-vid-title" class="title  longform">
+
+	<div id="watch-longform-buttons">
+
+			<div id="player-open-popup" class="reverse-tooltip-wrapper">
+				<button id="watch-longform-popup" class="master-sprite" onclick="showPopupPlayer('DbGhC47NSmY', 640, 480); this.blur(); return false;" onmouseover="toggleSimpleTooltip(this, true)" onmouseout="toggleSimpleTooltip(this, false)"></button>
+				<div class="reverse-tooltip-wrapper-box hid"><div class="reverse-tooltip-box">Ver este vídeo en una ventana nueva</div><img class="reverse-tooltip-box-bot" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"></div>
+			</div>
+
+
+		<div class="clearL"></div>
+	</div>
+
+
+		<h1 >Choose (Trainspotting)</h1>
+
+</div>
+
+<div class="clearL"></div>
+<!-- end top section -->
+
+
+
+
+<div id="watch-this-vid" class="yt-rounded">
+				<div id="watch-player-div" class="flash-player">
+					<div id="watch-noplayer-div">
+						<noscript>Hola, tienes JavaScript desactivado o una versión antigua de Adobe Flash Player. <a href="http://www.adobe.com/go/getflashplayer/" onmousedown="urchinTracker('/Events/VideoWatch/GetFlash');">Consigue la última versión de Flash Player</a>.</noscript>
+						<script type="text/javascript">
+							document.write('Hola, tienes JavaScript desactivado o una versión antigua de Adobe Flash Player. <a href=\"http://www.adobe.com/go/getflashplayer/\" onmousedown=\"urchinTracker(\'/Events/VideoWatch/GetFlash\');\">Consigue la última versión de Flash Player</a>.');
+						</script>
+					</div>
+				</div> 				<script type="text/javascript">
+					var fo = writeMoviePlayer("watch-player-div", false, null, null, "100%", "100%");
+				</script>
+
+</div>
+
+
+
+
+<!-- begin right section -->
+<div id="watch-other-vids">
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	<div id="watch-channel-vids-div" class="vcard">
+		<div id="watch-channel-vids-top">
+
+
+
+				<div id="watch-channel-icon" class="user-thumb-medium"><div>
+					<a class="url" href="/user/destrado04" onmousedown="urchinTracker('/Events/VideoWatch/ChannelIconLink');"><img src="http://i1.ytimg.com/vi/DbGhC47NSmY/default.jpg" class="photo" alt="Icono de canal"></a>
+				</div></div>
+
+				<div id="watch-channel-subscribe">
+
+						<div id="subscribeDiv">
+		<a class="yt-button yt-button-urgent" id="" style="" href="#" onclick="subscribe(watchUsername, 'username', subscribeaxc, true); return false;"><span>Suscribirse</span></a>
+	</div>
+	<div id="unsubscribeDiv" class="hid">
+		<a class="yt-button" id="" style="" href="#" onclick="unsubscribe(watchUsername, 'username', subscribeaxc); return false;"><span>Anular suscripción</span></a>
+	</div>
+
+
+				</div>
+
+				<div id="watch-channel-stats">
+					<a href="/user/destrado04" onmousedown="urchinTracker('/Events/VideoWatch/ChannelNameLink');" class="hLink fn n contributor">destrado04</a><br>
+						<span class="watch-video-added post-date">15 de junio de 2007</span><br/>
+					<div id="watch-video-details-toggle" class="expand-panel">
+						<div class="collapse-content">
+							(<a id="watch-video-desc-toggle-more" href="#" class="eLink" onClick="togglePanel(_gel('watch-video-details')); togglePanel(_gel('watch-video-details-toggle')); urchinTracker('/Events/VideoWatch/VideoDescMoreInfo'); return false;">más información</a>)
+						</div>
+						<div class="expand-content">
+							(<a href="#" class="eLink" onClick="togglePanel(_gel('watch-video-details')); togglePanel(_gel('watch-video-details-toggle')); urchinTracker('/Events/VideoWatch/VideoDescLessInfo'); return false;">menos información</a>)
+						</div>
+					</div>
+				</div>
+
+
+
+			<div class="clear"></div>
+		</div> 
+
+		<div id="subscribeMessage" style="display: none"></div>
+
+		<div id="subscribeLoginInvite" style="border: 1px solid rgb(153, 153, 153); padding: 5px; background-color:#ffffff;margin:8px 5px 0 5px;display:none;">
+			
+		<div style="border: 1px solid rgb(204, 204, 204); padding: 4px; background: #eee; text-align: center;">
+			<strong>¿Quieres suscribirte?</strong><br/>
+
+			¡<a href="/login?next=%2F">Accede</a> o <a href="/signup?next=%2F">regístrate</a> ahora!
+
+
+
+	</div>  
+
+		</div>
+
+
+
+
+
+
+
+
+
+		<div id="watch-video-details" class="expand-panel">
+
+
+			<div id="watch-video-details-inner">
+
+				<div class="collapse-content">
+
+					<div  class="watch-video-desc">
+						<span  class="description">animating the opening lines to trainspotting with some good o' fashioned type-graphics
+---
+better quality (where the background is actually visible): 
+<a href="http://vimeo.com/3937186" target="_blank" title="http://vimeo.com/3937186" rel="nofollow" dir="ltr">http://vimeo.com/3937186</a> </span>
+					</div>
+				</div>
+
+				<div class="expand-content">
+
+					<div  class="watch-video-desc description">
+						<span >animating the opening lines to trainspotting with some good o' fashioned type-graphics<br/>---<br/>better quality (where the background is actually visible): <br/><a href="http://vimeo.com/3937186" target="_blank" title="http://vimeo.com/3937186" rel="nofollow" dir="ltr">http://vimeo.com/3937186</a> </span>
+					</div>
+
+
+					<div id="watch-category">
+						<span class="watch-channel-stat">Categoría:&nbsp;</span>
+						<a id="watch-video-category" href="/browse?c=1" class="hLink category" onmousedown="urchinTracker('/Events/VideoWatch/VideoCategoryLink');">Cine y animación</a><br/>
+					</div>
+
+
+					<div id="watch-video-tags-div">
+						<div class="floatL">
+							<span class="watch-channel-stat">Etiquetas:&nbsp;</span>
+						</div>
+						<div id="watch-video-tags" class="floatL">
+								<a href="/results?search_query=animation&amp;search=tag" class="hLink">animation</a>&nbsp;
+								<a href="/results?search_query=trainspotting&amp;search=tag" class="hLink">trainspotting</a>&nbsp;
+								<a href="/results?search_query=typography&amp;search=tag" class="hLink">typography</a>&nbsp;
+								<a href="/results?search_query=kinetic&amp;search=tag" class="hLink">kinetic</a>&nbsp;
+
+						</div>
+						<div class="clearL"></div>
+					</div>
+
+
+
+				</div> 
+
+
+				<div id="watch-url-div">
+					<form action="" name="urlForm" id="urlForm">
+						<label for="watch-url-field">URL</label>
+						<input name="video_link" id="watch-url-field" type="text" class="email-video-url" value="http://www.youtube.com/watch?v=DbGhC47NSmY" onClick="javascript:document.urlForm.video_link.focus();document.urlForm.video_link.select();" onmousedown="urchinTracker('/Events/VideoWatch/CopyPasteLinkFromMoreInfo');" readonly>
+						<div class="clearL"></div>
+					</form>
+				</div>
+
+
+				<div id="watch-embed-div">
+					<form action="" name="embedForm" id="embedForm">
+						<label for="embed_code">Insertar</label>
+						<div>
+							<input id="embed_code" name="embed_code" type="text" value="&lt;object width=&quot;425&quot; height=&quot;344&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/DbGhC47NSmY&amp;hl=es&amp;fs=1&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;/param&gt;&lt;embed src=&quot;http://www.youtube.com/v/DbGhC47NSmY&amp;hl=es&amp;fs=1&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;344&quot;&gt;&lt;/embed&gt;&lt;/object&gt;" onclick="document.embedForm.embed_code.focus();document.embedForm.embed_code.select();customizeEmbed(isWidescreen, true);" readonly />
+							<span id="watch-embed-customize-wrapper" class="tooltip-wrapper">
+								<button id="watch-embed-customize" onclick="customizeEmbed(isWidescreen); urchinTracker('/Events/VideoWatch/CustomizeEmbed'); return false;" class="master-sprite" title="" onmouseover="toggleSimpleTooltip(this, true)" onmouseout="toggleSimpleTooltip(this, false)"></button>
+								<div class="tooltip-wrapper-box hid"><div class="tooltip-box">Personalizar</div><img class="tooltip-box-bot" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"></div>
+							</span>
+
+						</div>
+						<div class="clearL"></div>
+					</form>
+				</div> 
+			</div> 
+				<form id="watch-customize-embed-div" name="embedCustomizeForm" style="display: none;">Cargando...</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div> 	</div> 
+
+
+
+
+
+
+
+				<div id="watch-channel-videos-panel" class="watch-discoverbox-wrapper expand-panel " onExpanded="toggleChannelVideos('destrado04');"> 
+		<a href="#" onclick="togglePanel(this.parentNode); this.blur(); return false;" class="expand-header"><button title="" class="master-sprite watch-arrow"></button>			<span>Más de: destrado04
+					</span></a>
+		<div id="watch-channel-vids-body" class="watch-discoverbox-body mini-list-view expand-content">
+Cargando...
+		</div>
+		<div class="clearL"></div>
+	</div>
+
+
+
+
+
+
+
+
+
+ 	<div id="quicklistDiv" class="hid">
+		
+	<div id="quicklist-panel" class="expand-panel expanded" style="margin-bottom: 10px">
+		<div class="expand-content floatR">
+			<span id="playall_QL" class="smallText watch-playlist-action ">
+				<a href="#" onclick="return autoNext('QL');">Reproducir todos</a>
+			</span>
+			<span id="playingall_QL" class="smallText watch-playlist-action hid">
+				<a href="#" onclick="return autoNextOff('QL');">Detener reproducción automática</a>
+			</span>
+			<span class="smallText grayText">|</span>
+			<span class="smallText">
+				<span class="grayText" id="QL_no_next_video" style="display:none"
+					>Reproducir siguiente</span>
+				<a href="#" id="QL_next_video" 
+					onclick="playnextFrom='QL';gotoNext(false, null, true); return false;">Reproducir siguiente</a>
+			</span>
+		</div>
+
+
+
+		<a class="expand-header" href="#" onClick="togglePanel(this.parentNode); return false;"><button title="" class="master-sprite watch-arrow"></button><span >Lista rápida</span> <span class="watch-quicklist-count">(<span id="playlistVideoCount_QL">0</span>)</span></a>
+
+
+
+
+
+		<div id="playlistContainer_QL" class="expand-content watch-playlist-container watch-playlist-auto-height">
+			<div id="playlistRows_QL">
+							<div id="playlistRow_placeholder_QL" class="hid watch-playlist-row  	
+">
+		<a href="" class="watch-playlist-row-link">
+			<div class="watch-playlist-index">
+					<span id="playlistRowIndex_placeholder_QL" class="phIndex">1</span>
+			</div>
+			<div class="watch-playlist-row-left"><div class="v50WrapperOuter"><div class="v50WrapperInner">
+				<img class="vimg50" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt="" title="">
+			</div></div></div>
+			<div class="watch-playlist-row-middle">
+					<div class="vtitle" title=""  style="text-decoration: underline;">
+						
+					</div>
+					<div class="vfacets phUsername" style="color: #000;">
+						
+					</div>
+			</div>
+		</a>
+		<div class="watch-playlist-row-right">
+			<span class="watch-playlist-item-duration">
+				
+			</span>
+				<img class="watch-playlist-row-deleter" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" onclick="watchRemoveVideo('QL', this)" alt="">
+		</div>
+	</div>
+
+	
+	
+	
+	
+
+
+			</div>
+		</div>
+
+
+		<div id="watch-playlist-actions" class="expand-content">
+				<span class="smallText">
+					<a href="#" onClick="clearWatchQueue(); urchinTracker('/Events/VideoWatch/QuickList+ClearLink'); return false;" title="Eliminar todos los vídeos de la "lista rápida"" rel="nofollow">Borrar</a> <span class="smallText grayText">|</span>
+					<a href="/edit_playlist_info?watch_queue=1" title="Guardar todos los vídeos en una lista de reproducción permanente" onmousedown="urchinTracker('/Events/VideoWatch/QuickList+SaveLink');" rel="nofollow">Guardar</a>
+				</span>
+
+		</div>
+
+	</div> 
+ 	</div>
+
+
+
+
+	
+			<div id="watch-related-videos-panel" class="watch-discoverbox-wrapper expand-panel expanded" > 
+		<a href="#" onclick="togglePanel(this.parentNode); this.blur(); return false;" class="expand-header"><button title="" class="master-sprite watch-arrow"></button>			<span>Vídeos relacionados
+					</span></a>
+		<div id="watch-related-vids-body" class="watch-discoverbox-body mini-list-view expand-content">
+					<div id="watch-related-discoverbox" class="watch-discoverbox" style="height:432px" onscroll="performDelayLoad('related')">
+				
+
+
+
+	<div class="video-entry watch-ppv-vid">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=w9KnuJZkBjg&feature=fvw" rel="nofollow"><img title="Guru Josh Project - Infinity 2008 (Official Video - Klaas Vocal Edit)" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/w9KnuJZkBjg/default.jpg" class="vimg90" qlicon="w9KnuJZkBjg" alt="Guru Josh Project - Infinity 2008 (Official Video - Klaas Vocal Edit)"></a><div class="addtoQL90"><a href="#" ql="w9KnuJZkBjg" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i4.ytimg.com/vi/w9KnuJZkBjg/default.jpg', 'Guru Josh Project - Infinity 2008 (Official Video - Klaas Vocal Edit)')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>3:13</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=w9KnuJZkBjg&feature=fvw" title="Guru Josh Project - Infinity 2008 (Official Video - Klaas Vocal Edit)" rel="nofollow">Guru Josh Project - Infinity 2008 (Official Vid...</a></div>
+			<div class="video-view-count">60665116 reproducciones</div>
+			<div class="video-username"><a href="/user/HammerDontHurtEm">HammerDontHurtEm</a></div>
+		</div>
+
+		<div class="watch-ppv-label">Vídeos destacados</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=XyZbxKC48X4&feature=related" rel="nofollow"><img title="REQUIEM FOR A DREAM in typography / motion type" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/XyZbxKC48X4/default.jpg" class="vimg90" qlicon="XyZbxKC48X4" alt="REQUIEM FOR A DREAM in typography / motion type"></a><div class="addtoQL90"><a href="#" ql="XyZbxKC48X4" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i1.ytimg.com/vi/XyZbxKC48X4/default.jpg', 'REQUIEM FOR A DREAM in typography / motion type')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>1:01</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=XyZbxKC48X4&feature=related" title="REQUIEM FOR A DREAM in typography / motion type" rel="nofollow">REQUIEM FOR A DREAM in typography / motion type</a></div>
+			<div class="video-view-count">38751 reproducciones</div>
+			<div class="video-username"><a href="/user/newsblog">newsblog</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=N8X9BtNmSig&feature=related" rel="nofollow"><img title="trainspotting motion type" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/N8X9BtNmSig/default.jpg" class="vimg90" qlicon="N8X9BtNmSig" alt="trainspotting motion type"></a><div class="addtoQL90"><a href="#" ql="N8X9BtNmSig" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i3.ytimg.com/vi/N8X9BtNmSig/default.jpg', 'trainspotting motion type')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>0:55</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=N8X9BtNmSig&feature=related" title="trainspotting motion type" rel="nofollow">trainspotting motion type</a></div>
+			<div class="video-view-count">35952 reproducciones</div>
+			<div class="video-username"><a href="/user/nandopantufla">nandopantufla</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=E9Ul0hzbX1o&feature=related" rel="nofollow"><img title="Fight Club Kinetic Typography" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/E9Ul0hzbX1o/default.jpg" class="vimg90" qlicon="E9Ul0hzbX1o" alt="Fight Club Kinetic Typography"></a><div class="addtoQL90"><a href="#" ql="E9Ul0hzbX1o" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i2.ytimg.com/vi/E9Ul0hzbX1o/default.jpg', 'Fight Club Kinetic Typography')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>0:43</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=E9Ul0hzbX1o&feature=related" title="Fight Club Kinetic Typography" rel="nofollow">Fight Club Kinetic Typography</a></div>
+			<div class="video-view-count">72827 reproducciones</div>
+			<div class="video-username"><a href="/user/heyitsmerandy">heyitsmerandy</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=gGQRtf3_gTI&feature=related" rel="nofollow"><img title="Matrix animation" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/gGQRtf3_gTI/default.jpg" class="vimg90" qlicon="gGQRtf3_gTI" alt="Matrix animation"></a><div class="addtoQL90"><a href="#" ql="gGQRtf3_gTI" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i4.ytimg.com/vi/gGQRtf3_gTI/default.jpg', 'Matrix animation')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>0:30</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=gGQRtf3_gTI&feature=related" title="Matrix animation" rel="nofollow">Matrix animation</a></div>
+			<div class="video-view-count">93208 reproducciones</div>
+			<div class="video-username"><a href="/user/madfusion15">madfusion15</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=eAHI3bH0rbc&feature=related" rel="nofollow"><img title="Trainspotting UK Trailer" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/eAHI3bH0rbc/default.jpg" class="vimg90" qlicon="eAHI3bH0rbc" alt="Trainspotting UK Trailer"></a><div class="addtoQL90"><a href="#" ql="eAHI3bH0rbc" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i2.ytimg.com/vi/eAHI3bH0rbc/default.jpg', 'Trainspotting UK Trailer')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>2:00</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=eAHI3bH0rbc&feature=related" title="Trainspotting UK Trailer" rel="nofollow">Trainspotting UK Trailer</a></div>
+			<div class="video-view-count">694003 reproducciones</div>
+			<div class="video-username"><a href="/user/RedrumMoon">RedrumMoon</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=QDaCK9v8onA&feature=related" rel="nofollow"><img title="Choose Life (Music video) Trainspotting Soundtrack" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/QDaCK9v8onA/default.jpg" class="vimg90" qlicon="QDaCK9v8onA" alt="Choose Life (Music video) Trainspotting Soundtrack"></a><div class="addtoQL90"><a href="#" ql="QDaCK9v8onA" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i2.ytimg.com/vi/QDaCK9v8onA/default.jpg', 'Choose Life (Music video) Trainspotting Soundtrack')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>3:52</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=QDaCK9v8onA&feature=related" title="Choose Life (Music video) Trainspotting Soundtrack" rel="nofollow">Choose Life (Music video) Trainspotting Soundtrack</a></div>
+			<div class="video-view-count">165280 reproducciones</div>
+			<div class="video-username"><a href="/user/johneutah">johneutah</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=XDcMpIoXxp0&feature=related" rel="nofollow"><img title="Trainspotting Intro" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/XDcMpIoXxp0/default.jpg" class="vimg90" qlicon="XDcMpIoXxp0" alt="Trainspotting Intro"></a><div class="addtoQL90"><a href="#" ql="XDcMpIoXxp0" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i1.ytimg.com/vi/XDcMpIoXxp0/default.jpg', 'Trainspotting Intro')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>1:39</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=XDcMpIoXxp0&feature=related" title="Trainspotting Intro" rel="nofollow">Trainspotting Intro</a></div>
+			<div class="video-view-count">117501 reproducciones</div>
+			<div class="video-username"><a href="/user/Mikyma">Mikyma</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=QX7N58df0j0&feature=related" rel="nofollow"><img title="DEVIL'S ADVOCATE in typography" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i2.ytimg.com/vi/QX7N58df0j0/default.jpg', 'related')" qlicon="QX7N58df0j0" alt="DEVIL'S ADVOCATE in typography"></a><div class="addtoQL90"><a href="#" ql="QX7N58df0j0" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i2.ytimg.com/vi/QX7N58df0j0/default.jpg', 'DEVIL\'S ADVOCATE in typography')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>1:00</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=QX7N58df0j0&feature=related" title="DEVIL'S ADVOCATE in typography" rel="nofollow">DEVIL'S ADVOCATE in typography</a></div>
+			<div class="video-view-count">275534 reproducciones</div>
+			<div class="video-username"><a href="/user/sharonitt">sharonitt</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=mx-iQifANlw&feature=related" rel="nofollow"><img title="Trainspotting (1996)" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i2.ytimg.com/vi/mx-iQifANlw/default.jpg', 'related')" qlicon="mx-iQifANlw" alt="Trainspotting (1996)"></a><div class="addtoQL90"><a href="#" ql="mx-iQifANlw" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i2.ytimg.com/vi/mx-iQifANlw/default.jpg', 'Trainspotting (1996)')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>3:15</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=mx-iQifANlw&feature=related" title="Trainspotting (1996)" rel="nofollow">Trainspotting (1996)</a></div>
+			<div class="video-view-count">232371 reproducciones</div>
+			<div class="video-username"><a href="/user/ahlss0">ahlss0</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=utIfcfQz_4Y&feature=related" rel="nofollow"><img title="Spoken Word - Sin City" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i2.ytimg.com/vi/utIfcfQz_4Y/default.jpg', 'related')" qlicon="utIfcfQz_4Y" alt="Spoken Word - Sin City"></a><div class="addtoQL90"><a href="#" ql="utIfcfQz_4Y" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i2.ytimg.com/vi/utIfcfQz_4Y/default.jpg', 'Spoken Word - Sin City')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>0:51</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=utIfcfQz_4Y&feature=related" title="Spoken Word - Sin City" rel="nofollow">Spoken Word - Sin City</a></div>
+			<div class="video-view-count">7346 reproducciones</div>
+			<div class="video-username"><a href="/user/jtheby05">jtheby05</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=JGn5VpRVc4o&feature=related" rel="nofollow"><img title="Strawberry Fields Forever Old" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i3.ytimg.com/vi/JGn5VpRVc4o/default.jpg', 'related')" qlicon="JGn5VpRVc4o" alt="Strawberry Fields Forever Old"></a><div class="addtoQL90"><a href="#" ql="JGn5VpRVc4o" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i3.ytimg.com/vi/JGn5VpRVc4o/default.jpg', 'Strawberry Fields Forever Old')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>0:11</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=JGn5VpRVc4o&feature=related" title="Strawberry Fields Forever Old" rel="nofollow">Strawberry Fields Forever Old</a></div>
+			<div class="video-view-count">16901 reproducciones</div>
+			<div class="video-username"><a href="/user/alexrs555">alexrs555</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=zVPfTlpCKaw&feature=related" rel="nofollow"><img title="Typolution" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i3.ytimg.com/vi/zVPfTlpCKaw/default.jpg', 'related')" qlicon="zVPfTlpCKaw" alt="Typolution"></a><div class="addtoQL90"><a href="#" ql="zVPfTlpCKaw" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i3.ytimg.com/vi/zVPfTlpCKaw/default.jpg', 'Typolution')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>3:11</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=zVPfTlpCKaw&feature=related" title="Typolution" rel="nofollow">Typolution</a></div>
+			<div class="video-view-count">356951 reproducciones</div>
+			<div class="video-username"><a href="/user/graphkzr1234">graphkzr1234</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=8bPOtyiU3Pg&feature=related" rel="nofollow"><img title="Marv Monologue in Type - Sin City" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i1.ytimg.com/vi/8bPOtyiU3Pg/default.jpg', 'related')" qlicon="8bPOtyiU3Pg" alt="Marv Monologue in Type - Sin City"></a><div class="addtoQL90"><a href="#" ql="8bPOtyiU3Pg" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i1.ytimg.com/vi/8bPOtyiU3Pg/default.jpg', 'Marv Monologue in Type - Sin City')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>0:18</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=8bPOtyiU3Pg&feature=related" title="Marv Monologue in Type - Sin City" rel="nofollow">Marv Monologue in Type - Sin City</a></div>
+			<div class="video-view-count">12222 reproducciones</div>
+			<div class="video-username"><a href="/user/blehbrian">blehbrian</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=U55SvF1P0aU&feature=related" rel="nofollow"><img title="Trainspotting - The speedy Interview" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i2.ytimg.com/vi/U55SvF1P0aU/default.jpg', 'related')" qlicon="U55SvF1P0aU" alt="Trainspotting - The speedy Interview"></a><div class="addtoQL90"><a href="#" ql="U55SvF1P0aU" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i2.ytimg.com/vi/U55SvF1P0aU/default.jpg', 'Trainspotting - The speedy Interview')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>2:01</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=U55SvF1P0aU&feature=related" title="Trainspotting - The speedy Interview" rel="nofollow">Trainspotting - The speedy Interview</a></div>
+			<div class="video-view-count">268540 reproducciones</div>
+			<div class="video-username"><a href="/user/Surfacemaybehot">Surfacemaybehot</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=5afCwO8JxP4&feature=related" rel="nofollow"><img title="Trainspotting - About being Scottish.." src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i2.ytimg.com/vi/5afCwO8JxP4/default.jpg', 'related')" qlicon="5afCwO8JxP4" alt="Trainspotting - About being Scottish.."></a><div class="addtoQL90"><a href="#" ql="5afCwO8JxP4" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i2.ytimg.com/vi/5afCwO8JxP4/default.jpg', 'Trainspotting - About being Scottish..')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>2:09</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=5afCwO8JxP4&feature=related" title="Trainspotting - About being Scottish.." rel="nofollow">Trainspotting - About being Scottish..</a></div>
+			<div class="video-view-count">162856 reproducciones</div>
+			<div class="video-username"><a href="/user/NoSongUnheard">NoSongUnheard</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=pIjCEETGpOo&feature=related" rel="nofollow"><img title="Phonebooth Typography Animation" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i1.ytimg.com/vi/pIjCEETGpOo/default.jpg', 'related')" qlicon="pIjCEETGpOo" alt="Phonebooth Typography Animation"></a><div class="addtoQL90"><a href="#" ql="pIjCEETGpOo" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i1.ytimg.com/vi/pIjCEETGpOo/default.jpg', 'Phonebooth Typography Animation')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>0:45</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=pIjCEETGpOo&feature=related" title="Phonebooth Typography Animation" rel="nofollow">Phonebooth Typography Animation</a></div>
+			<div class="video-view-count">42821 reproducciones</div>
+			<div class="video-username"><a href="/user/marcusezikel">marcusezikel</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=4BqaMMTwXRU&feature=related" rel="nofollow"><img title="(wo)-man?!" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i1.ytimg.com/vi/4BqaMMTwXRU/default.jpg', 'related')" qlicon="4BqaMMTwXRU" alt="(wo)-man?!"></a><div class="addtoQL90"><a href="#" ql="4BqaMMTwXRU" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i1.ytimg.com/vi/4BqaMMTwXRU/default.jpg', '(wo)-man?!')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>4:49</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=4BqaMMTwXRU&feature=related" title="(wo)-man?!" rel="nofollow">(wo)-man?!</a></div>
+			<div class="video-view-count">15607 reproducciones</div>
+			<div class="video-username"><a href="/user/archetypemedia">archetypemedia</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=JbPkxg69KAs&feature=related" rel="nofollow"><img title="Underworld - Born Slippy NUXX (Trainspotting Version) (1996)" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i3.ytimg.com/vi/JbPkxg69KAs/default.jpg', 'related')" qlicon="JbPkxg69KAs" alt="Underworld - Born Slippy NUXX (Trainspotting Version) (1996)"></a><div class="addtoQL90"><a href="#" ql="JbPkxg69KAs" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i3.ytimg.com/vi/JbPkxg69KAs/default.jpg', 'Underworld - Born Slippy NUXX (Trainspotting Version) (1996)')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>4:26</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=JbPkxg69KAs&feature=related" title="Underworld - Born Slippy NUXX (Trainspotting Version) (1996)" rel="nofollow">Underworld - Born Slippy NUXX (Trainspotting Ve...</a></div>
+			<div class="video-view-count">382016 reproducciones</div>
+			<div class="video-username"><a href="/user/spikee92">spikee92</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+		
+
+	<div class="video-entry ">
+		<div class="v90WideEntry"><div class="v90WrapperOuter"><div class="v90WrapperInner"><a href="/watch?v=MnVXxsYOtTo&feature=related" rel="nofollow"><img title="Kiss Kiss Bang Bang Kinetic Typography" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" onload="delayLoad(this, 'http://i2.ytimg.com/vi/MnVXxsYOtTo/default.jpg', 'related')" qlicon="MnVXxsYOtTo" alt="Kiss Kiss Bang Bang Kinetic Typography"></a><div class="addtoQL90"><a href="#" ql="MnVXxsYOtTo" title="Añadir vídeo a lista rápida"><button title="" class="master-sprite QLIconImg"
+	onclick="return onQuickAddClick(this, this.parentNode.getAttribute('ql'), 'http://i2.ytimg.com/vi/MnVXxsYOtTo/default.jpg', 'Kiss Kiss Bang Bang Kinetic Typography')"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/VideoWatch/QuickList+AddTo')"></button></a><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div><div class="video-time"><span>1:07</span></div></div></div></div>
+		<div class="video-main-content">
+			<div  class="video-mini-title"><a href="/watch?v=MnVXxsYOtTo&feature=related" title="Kiss Kiss Bang Bang Kinetic Typography" rel="nofollow">Kiss Kiss Bang Bang Kinetic Typography</a></div>
+			<div class="video-view-count">18369 reproducciones</div>
+			<div class="video-username"><a href="/user/kurtwondrely">kurtwondrely</a></div>
+		</div>
+
+		<div class="video-clear-list-left"></div>
+	</div>
+
+
+		<div id="watch-related-video-list-loading-div" class="watch-discoverbox-more-link" style="display:none">Cargando...</div>
+			<div class="watch-discoverbox-more-link">
+				<a href="/results?search=related&amp;search_query=animation%20trainspotting%20typography%20kinetic&amp;v=DbGhC47NSmY&amp;page=2">
+Ver los 60 vídeos
+								</a>
+			</div>
+	</div>
+
+		</div>
+		<div class="clearL"></div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> <!-- end right section -->
+
+
+<!-- begin info section -->
+<div id="watch-this-vid-info">
+
+		<div id="flash10-promo-div">
+Upgrade to Flash Player 10 for improved playback performance. <a href="http://www.adobe.com/go/getflashplayer/" onmousedown="urchinTracker('/Events/VideoWatch/GetFlashUpgrade');">Upgrade Now</a> or <a href="http://help.youtube.com/support/youtube/bin/answer.py?answer=95402">get more info</a>.
+
+		</div>
+		<script>
+		onLoadFunctionList.push(function() {
+			if (!window['player_written'])
+				return;
+				if (isFlashVersionSupported(9,0,115)) {
+					if (canPlayH264Videos()) {
+						yt.UserPrefs.set('ftuc', 10);
+					}
+				} else {
+					_gel('flash10-promo-div').style.display = 'block';
+					var showCount = yt.UserPrefs.get('ftuc');
+					if (!showCount) {
+						showCount = 0;
+					}
+					yt.UserPrefs.set('ftuc', parseInt(showCount) + 1);
+					yt.UserPrefs.save();
+				}
+		});	
+		</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="watch-ratings-views">
+		<div id="watch-rating-div">
+			
+
+		<script language="javascript">
+
+
+		document.getElementById('watch-rating-div').onmouseover = function() { hideDiv('defaultRatingMessage'); showDiv('hoverMessage'); };
+		document.getElementById('watch-rating-div').onmouseout = function() { showDiv('defaultRatingMessage'); hideDiv('hoverMessage'); };
+ 	
+		</script>
+
+<div id="ratingWrapper"><div class="floatL" onclick="urchinTracker('/Events/VideoWatch/Rated');"><div id="ratingStars" class="floatL">
+<button class="master-sprite ratingL ratingL-4.5" title="4.5"></button></div><div id="ratingMessage" ><div id="defaultRatingMessage"><span class="smallText">125 puntuaciones</span></div><div id="hoverMessage" style="width:100%" class="hid"><a href="/login?next=/watch%3Fv%3DDbGhC47NSmY">Accede</a> para puntuar.</div></div></div></div>
+
+		</div>
+		
+		<div id="watch-views-div">
+				<span id="watch-views"><span id="watch-view-count">59481</span> reproducciones</span>
+		</div>
+
+
+
+		<div class="clear"></div>
+	</div>
+
+
+
+
+	<div id="watch-main-area">
+		<div id="watch-actions-area">
+			<div class="watch-tabs master-sprite">
+				<div id="watch-tab-favorite" class="watch-tab" onclick="if (!hasClass(this, 'disabled')) { addToFaves('addToFavesForm'); }">
+					<a id="watch-action-favorite-link" href="#" class="watch-action-link" onclick="return false;">
+						<button id="watch-action-favorite" class="master-sprite" title="Favoritos"></button>
+						<span class="watch-action-text">Favoritos</span>
+					</a>
+					<button class="master-sprite watch-tab-arrow" title=""></button></div>
+				<div id="watch-tab-share" onclick="if (hasClass(this, 'watch-tab-sel') && !isDisplayed('watch-share-video-div')) {urchinTracker('/Events/VideoWatch/ShareTab/OpensMore/es_ES');processShareVideo('DbGhC47NSmY','watch-share-video-div', 'all');} else { resetSharing(); } watchSelectTab(this);" class="watch-tab watch-tab-sel">
+					<a id="watch-action-share-link" href="#" class="watch-action-link" onclick="return false;">
+						<button id="watch-action-share" class="master-sprite" title="Compartir"></button>
+						<span class="watch-action-text">Compartir</span>
+					</a>
+					<button class="master-sprite watch-tab-arrow" title=""></button></div>
+				<div id="watch-tab-playlists" class="watch-tab" onclick="addToPlaylist('DbGhC47NSmY');">
+					<a id="watch-action-playlists-link" href="#" class="watch-action-link" onclick="return false">
+						<button id="watch-action-playlists" class="master-sprite" title="Añadir a listas"></button>
+						<span class="watch-action-text">Listas de reproducción</span>
+					</a>
+					<button class="master-sprite watch-tab-arrow" title=""></button></div>
+				<div id="watch-tab-flag" class="watch-tab " onclick="if (!hasClass(this, 'disabled')) { reportConcern('DbGhC47NSmY'); }" title="Notificar vídeo como inadecuado">
+					<a id="watch-action-flag-link" href="#" class="watch-action-link" onclick="return false">
+						<button id="watch-action-flag" class="master-sprite" title="Notificar vídeo como inadecuado"></button>
+						<span class="watch-action-text">Marcar</span>
+					</a>
+					<button class="master-sprite watch-tab-arrow" title=""></button></div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="watch-tab-contents">
+				<div id="watch-tab-share-body" class="watch-tab-body watch-tab-sel">
+					<div id="aggregationServicesDiv">
+						<div id="watch-sharetab-options">
+								<div id="more-options"><a href="#" class="eLink" onclick="urchinTracker('/Events/VideoWatch/Share/MoreOptions/es_ES');processShareVideo('DbGhC47NSmY', 'watch-share-video-div','all'); return false;" rel="nofollow">más</a></div>
+								<div style="display: none;" id="fewer-options"><a href="#" class="eLink" onclick="resetSharing(); return false;" rel="nofollow">menos</a></div>
+						</div>
+
+						<div id="watch-share-services-collapsed">
+										<div class="watch-recent-shares-div">
+				<div class="watch-recent-share">
+
+						<a href="#" target="_blank" onclick="recordServiceUsage('TUENTI', 'DbGhC47NSmY', 'es_ES');openPopup('http://www.tuenti.com/?#m=sharevideo&amp;id=DbGhC47NSmY', 'YouTube', 650, 1024, true);urchinTracker('/Events/VideoWatch/ShareAggr/Tuenti/es_ES');return false;">
+							<span>Tuenti</span>
+						</a>
+
+				</div>
+			</div>
+			<div class="watch-recent-shares-div">
+				<div class="watch-recent-share">
+
+						<a href="#" target="_blank" onclick="recordServiceUsage('FACEBOOK', 'DbGhC47NSmY', 'es_ES');openPopup('http://www.facebook.com/sharer.php?u=http%3A//www.youtube.com/watch%3Fv%3DDbGhC47NSmY&amp;t=Choose%20%28Trainspotting%29', 'YouTube', 440, 620, true);urchinTracker('/Events/VideoWatch/ShareAggr/Facebook/es_ES');return false;">
+							<span>Facebook</span>
+						</a>
+
+				</div>
+			</div>
+			<div class="watch-recent-shares-div">
+				<div class="watch-recent-share">
+
+						<a href="#" target="_blank" onclick="recordServiceUsage('HI5', 'DbGhC47NSmY', 'es_ES');openPopup('http://www.hi5.com/friend/checkViewedVideo.do?t=Choose%20%28Trainspotting%29&amp;url=http%3A//www.youtube.com/watch%3Fv%3DDbGhC47NSmY&amp;embeddable=true&amp;simple=true', 'YouTube', 475, 800, true);urchinTracker('/Events/VideoWatch/ShareAggr/hi5/es_ES');return false;">
+							<span>hi5</span>
+						</a>
+
+				</div>
+			</div>
+
+
+							<div class="clear"></div>
+						</div>
+						<div id="watch-share-services-expanded" style="display: none;">
+								<div class="watch-recent-shares-div">
+		<a href="#" onclick="recordServiceUsage('TUENTI', 'DbGhC47NSmY', 'es_ES');openPopup('http://www.tuenti.com/?#m=sharevideo&amp;id=DbGhC47NSmY', 'YouTube', 650, 1024, true);urchinTracker('/Events/VideoWatch/ShareService/Tuenti/es_ES');return false;" target="_blank"><span>Tuenti</span></a>
+	</div>
+	<div class="watch-recent-shares-div">
+		<a href="#" onclick="recordServiceUsage('FACEBOOK', 'DbGhC47NSmY', 'es_ES');openPopup('http://www.facebook.com/sharer.php?u=http%3A//www.youtube.com/watch%3Fv%3DDbGhC47NSmY&amp;t=Choose%20%28Trainspotting%29', 'YouTube', 440, 620, true);urchinTracker('/Events/VideoWatch/ShareService/Facebook/es_ES');return false;" target="_blank"><span>Facebook</span></a>
+	</div>
+	<div class="watch-recent-shares-div">
+		<a href="#" onclick="recordServiceUsage('HI5', 'DbGhC47NSmY', 'es_ES');openPopup('http://www.hi5.com/friend/checkViewedVideo.do?t=Choose%20%28Trainspotting%29&amp;url=http%3A//www.youtube.com/watch%3Fv%3DDbGhC47NSmY&amp;embeddable=true&amp;simple=true', 'YouTube', 475, 800, true);urchinTracker('/Events/VideoWatch/ShareService/hi5/es_ES');return false;" target="_blank"><span>hi5</span></a>
+	</div>
+	<div class="watch-recent-shares-div">
+		<a href="#" onclick="recordServiceUsage('MYSPACE', 'DbGhC47NSmY', 'es_ES');openPopup('http://www.myspace.com/Modules/PostTo/Pages/?t=Choose%20%28Trainspotting%29&amp;c=%3Cobject%20width%3D%22425%22%20height%3D%22355%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A//www.youtube.com/v/DbGhC47NSmY%26hl%3Des%26rel%3D0%22%3E%3C/param%3E%3Cembed%20src%3D%22http%3A//www.youtube.com/v/DbGhC47NSmY%26hl%3Des%26rel%3D0%22%20type%3D%22application/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22355%22%3E%3C/embed%3E%3C/object%3E&amp;u=http%3A//www.youtube.com/watch%3Fv%3DDbGhC47NSmY&amp;l=1', 'YouTube', 650, 1024, true);urchinTracker('/Events/VideoWatch/ShareService/MySpace/es_ES');return false;" target="_blank"><span>MySpace</span></a>
+	</div>
+	<div class="watch-recent-shares-div">
+		<a href="#" onclick="recordServiceUsage('MENEAME', 'DbGhC47NSmY', 'es_ES');openPopup('http://meneame.net/submit.php?url=http%3A//www.youtube.com/watch%3Fv%3DDbGhC47NSmY', 'YouTube', 650, 1024, true);urchinTracker('/Events/VideoWatch/ShareService/menéame/es_ES');return false;" target="_blank"><span>menéame</span></a>
+	</div>
+	<div class="watch-recent-shares-div">
+		<a href="#" onclick="recordServiceUsage('LIVE SPACES', 'DbGhC47NSmY', 'es_ES');openPopup('http://spaces.live.com/BlogIt.aspx?Title=YouTube - Choose%20%28Trainspotting%29&amp;SourceURL=http%3A//www.youtube.com/watch%3Fv%3DDbGhC47NSmY&amp;description=%3Cobject%20width%3D%22425%22%20height%3D%22355%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A//www.youtube.com/v/DbGhC47NSmY%26hl%3Des%26rel%3D0%22%3E%3C/param%3E%3Cembed%20src%3D%22http%3A//www.youtube.com/v/DbGhC47NSmY%26hl%3Des%26rel%3D0%22%20type%3D%22application/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22355%22%3E%3C/embed%3E%3C/object%3E', 'YouTube', 650, 1024, true);urchinTracker('/Events/VideoWatch/ShareService/Live Spaces/es_ES');return false;" target="_blank"><span>Live Spaces</span></a>
+	</div>
+	<div class="watch-recent-shares-div">
+		<a href="#" onclick="recordServiceUsage('ORKUT', 'DbGhC47NSmY', 'es_ES');openPopup('http://www.orkut.com/FavoriteVideos.aspx?u=http%3A//www.youtube.com/watch%3Fv%3DDbGhC47NSmY', 'YouTube', 650, 1024, true);urchinTracker('/Events/VideoWatch/ShareService/orkut/es_ES');return false;" target="_blank"><span>orkut</span></a>
+	</div>
+	<div class="watch-recent-shares-div">
+		<a href="#" onclick="recordServiceUsage('REDDIT', 'DbGhC47NSmY', 'es_ES');openPopup('http://reddit.com/submit?url=http%3A//www.youtube.com/watch%3Fv%3DDbGhC47NSmY&amp;title=Choose%20%28Trainspotting%29', 'YouTube', 650, 1024, true);urchinTracker('/Events/VideoWatch/ShareService/reddit/es_ES');return false;" target="_blank"><span>reddit</span></a>
+	</div>
+
+							<div class="clear"></div>
+						</div>
+					</div> 					<div id="addToBlogResult" class="watch-action-result" style="display: none;">Este vídeo aparecerá en breve en tu blog.</div>
+					<div id="watch-share-video-div" class="watch-more-action" style="display: none;">Cargando...</div>
+					<div id="shareVideoEmailDiv" class="watch-more-action martT0" style="display: none;">Cargando...</div>
+					<div id="shareMessageQuickDiv" class="watch-more-action" style="display: none;">Cargando...</div>
+					<div id="watch-share-blog-quick" class="watch-more-action" style="display: none;">Cargando...</div>
+					<div id="shareVideoResult" class="watch-action-result" style="display: none;">Gracias por compartir este vídeo.</div>
+				</div>
+				<div id="watch-tab-favorite-body" class="watch-tab-body">
+					<div id="watch-add-faves-div" class="watch-more-action" style="display: none;">
+						<form method="post" action="/watch_ajax?action_add_favorite_video=1" name="addToFavesForm">
+							
+							<input type="hidden" name="action_add_favorite_video" value="1" />
+							<input type="hidden" name="video_id" value="DbGhC47NSmY" />
+							<input type="checkbox" checked name="add_to_favorite" />
+						</form>
+					</div>
+					<div id="watch-add-faves-loading" class="watch-more-action" style="display: none;">
+Guardando...
+					</div>
+					<div id="watch-remove-faves-div" class="watch-more-action" style="display: none;">
+						<form method="post" action="/watch_ajax" name="removeFromFavesForm">
+							
+							<input type="hidden" name="action_remove_favorite_video" value="1" />
+							<input type="hidden" name="video_id" value="DbGhC47NSmY" />
+							<input type="checkbox" checked name="remove_from_favorite" />
+						</form>
+					</div>
+
+					<div id="watch-add-faves-result" class="watch-more-action" style="display: none;">
+						<div id="watch-remove-faves" class="watch-action-result" style="display: none;">
+							<div class="close"><a href="#" class="eLink" title="cerrar esta capa" onclick="watchSelectTab(_gel('watch-tab-share')); return false;">Cerrar</a></div>
+							<img class="watch-check-grn-circle" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif">
+							<span class="watch-action-response">
+Este vídeo se ha <strong>añadido</strong> a tus <a href="/my_favorites">favoritos</a>. (<a href="#" onclick="removeFromFaves('removeFromFavesForm'); return false;">Deshacer</a>)
+								<div id="recent-fav-video">
+								</div>
+							</span>
+						</div>
+						<div id="watch-add-faves" class="watch-action-result" style="display: none;">
+							<div class="close"><a href="#" class="eLink" title="cerrar esta capa" onclick="watchSelectTab(_gel('watch-tab-share')); return false;">Cerrar</a></div>
+							<img class="watch-check-grn-circle" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif">
+							<span class="watch-action-response">
+Este vídeo se ha <strong>eliminado</strong> de tus <a href="/my_favorites">favoritos</a>. (<a href="#" onclick="addToFaves('addToFavesForm'); return false;">Deshacer</a>)
+							</span>
+						</div>
+					</div>
+
+						<div id="addToFavesLogin" style="padding: 2px 8px 8px 8px;">
+						<div class="close"><a href="#" title="cerrar esta capa" onclick="watchSelectTab(_gel('watch-tab-share')); return false;">cerrar</a></div>
+								¿Quieres añadir vídeos a favoritos?
+	<strong>¡<a href="/login?next=%2Fwatch%3Fv%3DDbGhC47NSmY%23fav">Accede</a> o <a href="/signup?next=%2Fwatch%3Fv%3DDbGhC47NSmY%23fav">regístrate</a> ahora!
+</strong>	
+
+						</div>
+
+				</div>
+				<div id="watch-tab-playlists-body" class="watch-tab-body">
+					<div id="addToPlaylistDiv" class="watch-more-action" style="display: none;">Cargando...</div>
+					<div id="addToPlaylistResult" class="watch-action-result" style="display: none;"><img class="watch-check-grn-circle" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif">El vídeo se ha añadido a tu lista de reproducción.</div>
+					<div id="rec-playlist-video">
+					</div>
+						<div id="addToPlaylistLogin" style="padding: 2px 8px 8px 8px;">
+						<div class="close"><a href="#" title="cerrar esta capa" onclick="watchSelectTab(_gel('watch-tab-share')); return false;">cerrar</a></div>
+								¿Quieres añadir a listas de reproducción?
+	<strong>¡<a href="/login?next=%2F">Accede</a> o <a href="/signup?next=%2F">regístrate</a> ahora!
+</strong>	
+
+						</div>
+
+				</div>
+				<div id="watch-tab-flag-body" class="watch-tab-body">
+					<div id="inappropriateVidDiv" class="watch-more-action" style="display: none;">Cargando...</div>
+					<div id="inappropriateMsgsDiv" class="hid"></div>
+						<div id="inappropriateMsgLogin" style="padding: 2px 8px 8px 8px;">
+						<div class="close"><a href="#" title="cerrar esta capa" onclick="watchSelectTab(_gel('watch-tab-share')); return false;">cerrar</a></div>
+								¿Quieres marcar un vídeo?
+	<strong>¡<a href="/login?next=%2F">Accede</a> o <a href="/signup?next=%2F">regístrate</a> ahora!
+</strong>	
+
+						</div>
+
+				</div>
+				<div id="watch-tab-download-body" class="watch-tab-body">
+				
+
+
+
+				</div>
+			</div> 			<div class="clear"></div>
+		</div> 
+	</div> 	
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="watch-stats-data-wrapper" class="expand-panel small-expand-panel">
+		<a href="#" onclick="togglePanel(this.parentNode); watchExpandStatBody(); this.blur(); urchinTracker('/Events/VideoWatch/InfoTab/Stats'); return false;" class="expand-header"><button title="" class="master-sprite watch-arrow"></button><span>Estadísticas y datos</span></a>
+		<div id="watch-tab-stats-body" class="expand-content">Cargando...</div>
+	</div>
+
+
+
+
+	<div class="expand-panel  small-expand-panel">
+			<div class="floatR">
+					<a class="hLink smallText" href="/login?next=/video_response_upload%3Fv%3DDbGhC47NSmY" onclick="urchinTracker('/Events/VideoWatch/PostVideoResponseSignIn');">Acceder a mi cuenta para publicar una respuesta en vídeo</a>
+			</div>
+
+		<a href="#" onclick="togglePanel(this.parentNode); this.blur(); return false;" class="expand-header"><button title="" class="master-sprite watch-arrow"></button><span>Respuestas en vídeo</span> <span class="expand-header-stat">(0)</span></a>
+		<div id="watch-video-responses-none" class="expand-content">
+Este vídeo no tiene <b>ninguna respuesta</b>. Sé el primero en <a class="bold" href="/video_response_upload?v=DbGhC47NSmY">publicar una respuesta en vídeo</a>.
+		</div>
+
+		<div class="clear"></div>
+	</div>	
+
+
+
+	<div id="watch-comment-panel" class="expand-panel expanded small-expand-panel" onexpanded="watchExpandComments('/watch_ajax?v=DbGhC47NSmY&amp;action_get_comments=1&amp;p=1&amp;commentthreshold=-5&amp;commentfilter=0&amp;page_size=10&amp;last_comment_id=', 20)" oncollapsed="watchCommentsPanelStateChange()">
+		<div id="watch-comment-post-comment">
+				<a href="#" class="hLink smallText" onclick="showCommentReplyForm('main_comment2', '', false); urchinTracker('/Events/VideoWatch/PostTextCommentSignin'); return false;" id="post_text_comment_link" rel="nofollow">Acceder a mi cuenta para publicar un comentario</a>
+
+		</div>
+
+		<a href="#" onclick="togglePanel(this.parentNode); this.blur(); return false;" class="expand-header"><button title="" class="master-sprite watch-arrow"></button><span>Comentarios escritos</span> <span class="expand-header-stat">(20)</span></a>&nbsp;&nbsp;<a href="#" class="smallText eLink" onclick="return toggleCommentsOptions('/watch_ajax?v=DbGhC47NSmY&amp;action_get_comments_options=1&amp;commentthreshold=-5&amp;commentfilter=0&amp;page_size=10')" onmousedown="urchinTracker('/Events/VideoWatch/CommentsOptions')">Opciones</a>
+
+		<div class="clear"></div>
+
+		<div id="watch-comments-options" class="hid">
+			<div id="watch-comments-options-inner">Cargando...</div>
+		</div>
+
+		<div class="expand-content">
+
+			<div id="div_main_comment2"></div>
+
+			<div id="recent_comments" class="comments">
+								
+
+
+
+
+
+
+
+
+
+
+		
+
+	<div id="Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE" class="watch-comment-entry">
+
+
+
+
+		<div class="watch-comment-head">
+
+			<div class="watch-comment-info">
+				<a class="watch-comment-auth" href="/user/stale87" rel="nofollow">stale87</a>
+				<span class="watch-comment-time"> (hace 2 meses) </span>
+
+				<a id="show_link_Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE"  class="watch-comment-head-link" onclick="displayHideCommentLink('Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE')">Mostrar</a>
+				<a id="hide_link_Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE" class="watch-comment-head-link" onclick="displayShowCommentLink('Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE')">Ocultar</a>
+			</div>
+					<div id="comment_vote_Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE" class="watch-comment-voting">
+
+	<span class="watch-comment-score watch-comment-red">&nbsp;-1</span>
+
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-down" title="Mal comentario" onMouseover="loginMsg('Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE', 1);" onMouseout="loginMsg('Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE', 0);"></button></a>
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-up" title="Buen comentario" onMouseover="loginMsg('Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE', 1);" onMouseout="loginMsg('Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE', 0);"></button></a>
+		<span id="comment_msg_Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE" class="watch-comment-msg"></span>
+
+	</div>
+
+
+			
+	<span id="comment_spam_bug_Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE" class="watch-comment-spam-bug">Marcado como spam</span>
+	<div id="reply_comment_form_id_Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE" class="watch-comment-action">
+			<a onclick="showCommentReplyForm('comment_form_id_Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE', 'Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE', false)">Responder</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+			<div class="clearL"></div>
+		</div>
+
+			<div id="comment_body_Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE" >
+				<div class="watch-comment-body">
+					<div >
+
+						legend....﻿ wait for it.... dairy !
+					</div>
+				</div>
+				<div id="div_comment_form_id_Xaq2vi__mDPA5vlPenVWphg6cUC2jNMqs9QyO19x5aE"></div>
+			</div>
+
+
+
+
+
+	</div> 
+
+
+
+
+
+
+		
+
+	<div id="Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak" class="watch-comment-entry">
+
+
+
+
+		<div class="watch-comment-head">
+
+			<div class="watch-comment-info">
+				<a class="watch-comment-auth" href="/user/EditorsFan" rel="nofollow">EditorsFan</a>
+				<span class="watch-comment-time"> (hace 2 semanas) </span>
+
+				<a id="show_link_Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak"  class="watch-comment-head-link" onclick="displayHideCommentLink('Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak')">Mostrar</a>
+				<a id="hide_link_Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak" class="watch-comment-head-link" onclick="displayShowCommentLink('Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak')">Ocultar</a>
+			</div>
+					<div id="comment_vote_Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak" class="watch-comment-voting">
+
+	<span class="watch-comment-score watch-comment-gray">&nbsp;0</span>
+
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-down" title="Mal comentario" onMouseover="loginMsg('Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak', 1);" onMouseout="loginMsg('Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak', 0);"></button></a>
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-up" title="Buen comentario" onMouseover="loginMsg('Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak', 1);" onMouseout="loginMsg('Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak', 0);"></button></a>
+		<span id="comment_msg_Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak" class="watch-comment-msg"></span>
+
+	</div>
+
+
+			
+	<span id="comment_spam_bug_Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak" class="watch-comment-spam-bug">Marcado como spam</span>
+	<div id="reply_comment_form_id_Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak" class="watch-comment-action">
+			<a onclick="showCommentReplyForm('comment_form_id_Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak', 'Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak', false)">Responder</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+			<div class="clearL"></div>
+		</div>
+
+			<div id="comment_body_Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak" >
+				<div class="watch-comment-body">
+					<div >
+
+						what has that got to do with Trainspotting, we're not talking about Barney Stinson frm HIMYM here...﻿
+					</div>
+				</div>
+				<div id="div_comment_form_id_Xaq2vi__mDPltSqqJOvnCtYpZcHRmQyLiLtmNwHEdak"></div>
+			</div>
+
+
+
+
+
+	</div> 
+
+
+
+
+
+
+		
+
+	<div id="Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM" class="watch-comment-entry">
+
+
+
+
+		<div class="watch-comment-head">
+
+			<div class="watch-comment-info">
+				<a class="watch-comment-auth" href="/user/stale87" rel="nofollow">stale87</a>
+				<span class="watch-comment-time"> (hace 2 semanas) </span>
+
+				<a id="show_link_Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM"  class="watch-comment-head-link" onclick="displayHideCommentLink('Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM')">Mostrar</a>
+				<a id="hide_link_Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM" class="watch-comment-head-link" onclick="displayShowCommentLink('Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM')">Ocultar</a>
+			</div>
+					<div id="comment_vote_Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM" class="watch-comment-voting">
+
+	<span class="watch-comment-score watch-comment-green">+1</span>
+
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-down" title="Mal comentario" onMouseover="loginMsg('Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM', 1);" onMouseout="loginMsg('Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM', 0);"></button></a>
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-up" title="Buen comentario" onMouseover="loginMsg('Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM', 1);" onMouseout="loginMsg('Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM', 0);"></button></a>
+		<span id="comment_msg_Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM" class="watch-comment-msg"></span>
+
+	</div>
+
+
+			
+	<span id="comment_spam_bug_Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM" class="watch-comment-spam-bug">Marcado como spam</span>
+	<div id="reply_comment_form_id_Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM" class="watch-comment-action">
+			<a onclick="showCommentReplyForm('comment_form_id_Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM', 'Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM', false)">Responder</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+			<div class="clearL"></div>
+		</div>
+
+			<div id="comment_body_Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM" >
+				<div class="watch-comment-body">
+					<div >
+
+						the movie﻿ is just legendairy.... !
+					</div>
+				</div>
+				<div id="div_comment_form_id_Xaq2vi__mDOsm3kt01hjhvSKGxESrb2gr4VQlYTKGjM"></div>
+			</div>
+
+
+
+
+
+	</div> 
+
+
+
+
+
+
+		
+
+	<div id="Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU" class="watch-comment-entry">
+
+
+
+
+		<div class="watch-comment-head">
+
+			<div class="watch-comment-info">
+				<a class="watch-comment-auth" href="/user/rosso1234567hot" rel="nofollow">rosso1234567hot</a>
+				<span class="watch-comment-time"> (hace 2 meses) </span>
+
+				<a id="show_link_Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU"  class="watch-comment-head-link" onclick="displayHideCommentLink('Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU')">Mostrar</a>
+				<a id="hide_link_Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU" class="watch-comment-head-link" onclick="displayShowCommentLink('Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU')">Ocultar</a>
+			</div>
+					<div id="comment_vote_Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU" class="watch-comment-voting">
+
+	<span class="watch-comment-score watch-comment-green">+3</span>
+
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-down" title="Mal comentario" onMouseover="loginMsg('Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU', 1);" onMouseout="loginMsg('Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU', 0);"></button></a>
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-up" title="Buen comentario" onMouseover="loginMsg('Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU', 1);" onMouseout="loginMsg('Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU', 0);"></button></a>
+		<span id="comment_msg_Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU" class="watch-comment-msg"></span>
+
+	</div>
+
+
+			
+	<span id="comment_spam_bug_Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU" class="watch-comment-spam-bug">Marcado como spam</span>
+	<div id="reply_comment_form_id_Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU" class="watch-comment-action">
+			<a onclick="showCommentReplyForm('comment_form_id_Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU', 'Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU', false)">Responder</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+			<div class="clearL"></div>
+		</div>
+
+			<div id="comment_body_Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU" >
+				<div class="watch-comment-body">
+					<div >
+
+						amazin just after gettin﻿ choose life tattoed on me
+					</div>
+				</div>
+				<div id="div_comment_form_id_Xaq2vi__mDN5ym_SQI2dPsHY9lNHxxJski5HbURSIJU"></div>
+			</div>
+
+
+
+
+
+	</div> 
+
+
+
+
+
+
+		
+
+	<div id="Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0" class="watch-comment-entry">
+
+
+
+
+		<div class="watch-comment-head">
+
+			<div class="watch-comment-info">
+				<a class="watch-comment-auth" href="/user/OfficerMcGroist" rel="nofollow">OfficerMcGroist</a>
+				<span class="watch-comment-time"> (hace 4 meses) </span>
+
+				<a id="show_link_Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0"  class="watch-comment-head-link" onclick="displayHideCommentLink('Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0')">Mostrar</a>
+				<a id="hide_link_Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0" class="watch-comment-head-link" onclick="displayShowCommentLink('Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0')">Ocultar</a>
+			</div>
+					<div id="comment_vote_Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0" class="watch-comment-voting">
+
+	<span class="watch-comment-score watch-comment-gray">&nbsp;0</span>
+
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-down" title="Mal comentario" onMouseover="loginMsg('Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0', 1);" onMouseout="loginMsg('Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0', 0);"></button></a>
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-up" title="Buen comentario" onMouseover="loginMsg('Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0', 1);" onMouseout="loginMsg('Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0', 0);"></button></a>
+		<span id="comment_msg_Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0" class="watch-comment-msg"></span>
+
+	</div>
+
+
+			
+	<span id="comment_spam_bug_Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0" class="watch-comment-spam-bug">Marcado como spam</span>
+	<div id="reply_comment_form_id_Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0" class="watch-comment-action">
+			<a onclick="showCommentReplyForm('comment_form_id_Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0', 'Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0', false)">Responder</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+			<div class="clearL"></div>
+		</div>
+
+			<div id="comment_body_Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0" >
+				<div class="watch-comment-body">
+					<div >
+
+						VISUALLY STIMULATING!!!﻿
+					</div>
+				</div>
+				<div id="div_comment_form_id_Xaq2vi__mDOjWo10CeyP9JvZGzYhLF4qLXjM0T5TdF0"></div>
+			</div>
+
+
+
+
+
+	</div> 
+
+
+
+
+
+
+		
+
+	<div id="Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg" class="watch-comment-entry">
+
+
+
+
+		<div class="watch-comment-head">
+
+			<div class="watch-comment-info">
+				<a class="watch-comment-auth" href="/user/rubixx26" rel="nofollow">rubixx26</a>
+				<span class="watch-comment-time"> (hace 4 meses) </span>
+
+				<a id="show_link_Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg"  class="watch-comment-head-link" onclick="displayHideCommentLink('Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg')">Mostrar</a>
+				<a id="hide_link_Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg" class="watch-comment-head-link" onclick="displayShowCommentLink('Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg')">Ocultar</a>
+			</div>
+					<div id="comment_vote_Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg" class="watch-comment-voting">
+
+	<span class="watch-comment-score watch-comment-gray">&nbsp;0</span>
+
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-down" title="Mal comentario" onMouseover="loginMsg('Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg', 1);" onMouseout="loginMsg('Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg', 0);"></button></a>
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-up" title="Buen comentario" onMouseover="loginMsg('Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg', 1);" onMouseout="loginMsg('Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg', 0);"></button></a>
+		<span id="comment_msg_Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg" class="watch-comment-msg"></span>
+
+	</div>
+
+
+			
+	<span id="comment_spam_bug_Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg" class="watch-comment-spam-bug">Marcado como spam</span>
+	<div id="reply_comment_form_id_Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg" class="watch-comment-action">
+			<a onclick="showCommentReplyForm('comment_form_id_Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg', 'Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg', false)">Responder</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+			<div class="clearL"></div>
+		</div>
+
+			<div id="comment_body_Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg" >
+				<div class="watch-comment-body">
+					<div >
+
+						ammazzao',﻿ not bad!
+					</div>
+				</div>
+				<div id="div_comment_form_id_Xaq2vi__mDMN-pYo_QeAC2Q3alY1DmDE4E8KKcFlKHg"></div>
+			</div>
+
+
+
+
+
+	</div> 
+
+
+
+
+
+
+		
+
+	<div id="Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ" class="watch-comment-entry">
+
+
+
+
+		<div class="watch-comment-head">
+
+			<div class="watch-comment-info">
+				<a class="watch-comment-auth" href="/user/Helghant" rel="nofollow">Helghant</a>
+				<span class="watch-comment-time"> (hace 5 meses) </span>
+
+				<a id="show_link_Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ"  class="watch-comment-head-link" onclick="displayHideCommentLink('Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ')">Mostrar</a>
+				<a id="hide_link_Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ" class="watch-comment-head-link" onclick="displayShowCommentLink('Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ')">Ocultar</a>
+			</div>
+					<div id="comment_vote_Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ" class="watch-comment-voting">
+
+	<span class="watch-comment-score watch-comment-green">+1</span>
+
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-down" title="Mal comentario" onMouseover="loginMsg('Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ', 1);" onMouseout="loginMsg('Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ', 0);"></button></a>
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-up" title="Buen comentario" onMouseover="loginMsg('Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ', 1);" onMouseout="loginMsg('Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ', 0);"></button></a>
+		<span id="comment_msg_Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ" class="watch-comment-msg"></span>
+
+	</div>
+
+
+			
+	<span id="comment_spam_bug_Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ" class="watch-comment-spam-bug">Marcado como spam</span>
+	<div id="reply_comment_form_id_Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ" class="watch-comment-action">
+			<a onclick="showCommentReplyForm('comment_form_id_Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ', 'Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ', false)">Responder</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+			<div class="clearL"></div>
+		</div>
+
+			<div id="comment_body_Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ" >
+				<div class="watch-comment-body">
+					<div >
+
+						Amazing movie, and great looking motion﻿ graphics :)
+					</div>
+				</div>
+				<div id="div_comment_form_id_Xaq2vi__mDNHnUJ5kMB23--ofq-Sa01gzkR6q9p2DIQ"></div>
+			</div>
+
+
+
+
+
+	</div> 
+
+
+
+
+
+
+		
+
+	<div id="Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g" class="watch-comment-entry">
+
+
+
+
+		<div class="watch-comment-head">
+
+			<div class="watch-comment-info">
+				<a class="watch-comment-auth" href="/user/korkyovnewport" rel="nofollow">korkyovnewport</a>
+				<span class="watch-comment-time"> (hace 6 meses) </span>
+
+				<a id="show_link_Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g"  class="watch-comment-head-link" onclick="displayHideCommentLink('Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g')">Mostrar</a>
+				<a id="hide_link_Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g" class="watch-comment-head-link" onclick="displayShowCommentLink('Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g')">Ocultar</a>
+			</div>
+					<div id="comment_vote_Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g" class="watch-comment-voting">
+
+	<span class="watch-comment-score watch-comment-gray">&nbsp;0</span>
+
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-down" title="Mal comentario" onMouseover="loginMsg('Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g', 1);" onMouseout="loginMsg('Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g', 0);"></button></a>
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-up" title="Buen comentario" onMouseover="loginMsg('Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g', 1);" onMouseout="loginMsg('Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g', 0);"></button></a>
+		<span id="comment_msg_Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g" class="watch-comment-msg"></span>
+
+	</div>
+
+
+			
+	<span id="comment_spam_bug_Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g" class="watch-comment-spam-bug">Marcado como spam</span>
+	<div id="reply_comment_form_id_Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g" class="watch-comment-action">
+			<a onclick="showCommentReplyForm('comment_form_id_Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g', 'Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g', false)">Responder</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+			<div class="clearL"></div>
+		</div>
+
+			<div id="comment_body_Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g" >
+				<div class="watch-comment-body">
+					<div >
+
+						just watched this﻿ fukin brilliant gotta be fair...
+					</div>
+				</div>
+				<div id="div_comment_form_id_Xaq2vi__mDOzzUX66fqLbSFq5LB1m_nyBRZKWPEzo-g"></div>
+			</div>
+
+
+
+
+
+	</div> 
+
+
+
+
+
+
+		
+
+	<div id="Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk" class="watch-comment-entry">
+
+
+
+
+		<div class="watch-comment-head">
+
+			<div class="watch-comment-info">
+				<a class="watch-comment-auth" href="/user/pandaman0529" rel="nofollow">pandaman0529</a>
+				<span class="watch-comment-time"> (hace 7 meses) </span>
+
+				<a id="show_link_Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk"  class="watch-comment-head-link" onclick="displayHideCommentLink('Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk')">Mostrar</a>
+				<a id="hide_link_Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk" class="watch-comment-head-link" onclick="displayShowCommentLink('Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk')">Ocultar</a>
+			</div>
+					<div id="comment_vote_Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk" class="watch-comment-voting">
+
+	<span class="watch-comment-score watch-comment-gray">&nbsp;0</span>
+
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-down" title="Mal comentario" onMouseover="loginMsg('Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk', 1);" onMouseout="loginMsg('Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk', 0);"></button></a>
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-up" title="Buen comentario" onMouseover="loginMsg('Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk', 1);" onMouseout="loginMsg('Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk', 0);"></button></a>
+		<span id="comment_msg_Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk" class="watch-comment-msg"></span>
+
+	</div>
+
+
+			
+	<span id="comment_spam_bug_Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk" class="watch-comment-spam-bug">Marcado como spam</span>
+	<div id="reply_comment_form_id_Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk" class="watch-comment-action">
+			<a onclick="showCommentReplyForm('comment_form_id_Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk', 'Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk', false)">Responder</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+			<div class="clearL"></div>
+		</div>
+
+			<div id="comment_body_Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk" >
+				<div class="watch-comment-body">
+					<div >
+
+						fucking awesome!<br/>great narration and﻿ love the animation.<br/>sweet font too
+					</div>
+				</div>
+				<div id="div_comment_form_id_Xaq2vi__mDO5a0rlrQIRMAW0JBGk-5xN-MwKL-DLuPk"></div>
+			</div>
+
+
+
+
+
+	</div> 
+
+
+
+
+
+
+		
+
+	<div id="Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0" class="watch-comment-entry">
+
+
+
+
+		<div class="watch-comment-head">
+
+			<div class="watch-comment-info">
+				<a class="watch-comment-auth" href="/user/PunxSkateAndDestroy" rel="nofollow">PunxSkateAndDestroy</a>
+				<span class="watch-comment-time"> (hace 7 meses) </span>
+
+				<a id="show_link_Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0"  class="watch-comment-head-link" onclick="displayHideCommentLink('Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0')">Mostrar</a>
+				<a id="hide_link_Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0" class="watch-comment-head-link" onclick="displayShowCommentLink('Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0')">Ocultar</a>
+			</div>
+					<div id="comment_vote_Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0" class="watch-comment-voting">
+
+	<span class="watch-comment-score watch-comment-gray">&nbsp;0</span>
+
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-down" title="Mal comentario" onMouseover="loginMsg('Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0', 1);" onMouseout="loginMsg('Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0', 0);"></button></a>
+		<a href="/login?next=%2F"><button class="master-sprite watch-comment-up" title="Buen comentario" onMouseover="loginMsg('Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0', 1);" onMouseout="loginMsg('Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0', 0);"></button></a>
+		<span id="comment_msg_Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0" class="watch-comment-msg"></span>
+
+	</div>
+
+
+			
+	<span id="comment_spam_bug_Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0" class="watch-comment-spam-bug">Marcado como spam</span>
+	<div id="reply_comment_form_id_Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0" class="watch-comment-action">
+			<a onclick="showCommentReplyForm('comment_form_id_Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0', 'Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0', false)">Responder</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+			<div class="clearL"></div>
+		</div>
+
+			<div id="comment_body_Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0" >
+				<div class="watch-comment-body">
+					<div >
+
+						Nice﻿
+					</div>
+				</div>
+				<div id="div_comment_form_id_Xaq2vi__mDPbx6z9teGMPNdk5dPBINpmR8bPruqBDI0"></div>
+			</div>
+
+
+
+
+
+	</div> 
+
+
+
+
+		<div class="watch-comment-pagination">
+<div class="floatR">
+
+
+<span class="watch-comment-pnum"><a href="#" onclick="showLoading('recent_comments');ajaxRequest('/watch_ajax?v=DbGhC47NSmY&amp;action_get_comments=1&amp;p=2&amp;commentthreshold=-5&amp;commentfilter=0&amp;page_size=10&amp;last_comment_id=', { method: 'GET', update: 'recent_comments' }); return false;">Siguiente</a></span>
+
+</div>
+
+<div class="floatL">
+	<span class="watch-comment-pnum">Páginas:</span>
+
+
+
+			<span class="watch-comment-pnum">1</span>
+
+			<span class="watch-comment-pnum"><a href="#" onclick="showLoading('recent_comments');ajaxRequest('/watch_ajax?v=DbGhC47NSmY&amp;action_get_comments=1&amp;p=2&amp;commentthreshold=-5&amp;commentfilter=0&amp;page_size=10&amp;last_comment_id=', { method: 'GET', update: 'recent_comments' }); return false;">2</a></span>
+
+
+
+		&#160;...&#160;
+
+
+</div>
+
+<div class="clear"></div>
+</div>
+
+
+
+			</div>
+
+			<div id="watch-comment-view-all"><a href="/comment_servlet?all_comments&amp;v=DbGhC47NSmY&amp;fromurl=/watch%3Fv%3DDbGhC47NSmY" class="hLink" onmousedown="urchinTracker('/Events/VideoWatch/ViewAllComments');" rel="nofollow">Ver los 20 comentarios</a></div>
+
+				<div id="watch-comment-post">
+					<h2>¿Quieres enviar algún comentario?</h2>
+					<div>
+<a href="/signup?next=/watch%3Fv%3DDbGhC47NSmY">Únete a YouTube</a> para obtener una cuenta gratuita o <a href="/login?next=/watch%3Fv%3DDbGhC47NSmY">accede a tu cuenta</a> si ya eres miembro.
+					</div>
+
+				</div> 
+				<div id="div_main_comment"></div>
+
+		</div> 	</div> 
+
+</div> <!-- end info section -->
+
+
+
+
+
+
+
+	<!-- begin footer section -->
+		<div class="clear"></div>
+	
+	<div id="footer">
+		<div class="search">
+			<div class="form-wrapper">
+				
+	<form autocomplete="off" class="search-form" action="/results" method="get" name="footer-search-form">
+		<input id="footer-search-term" class="search-term" name="search_query" type="text"  onkeyup = "top.goog.i18n.bidi.setDirAttribute(event,this)"  value="" maxlength="128"  onfocus="addClass(this, 'search-term-focus')" onblur="removeClass(this, 'search-term-focus')">
+			<input id="search-type-footer" name="search_type" type="hidden" value="">
+	<a class="yt-button yt-button-primary" id="" style="" href="#" onclick="document.searchForm.submit(); return false;"><span>Buscar</span></a>
+
+	</form>
+
+			</div>
+		</div>
+		<div class="links">
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					<th >YouTube</th>
+					<th >Programas</th>
+					<th >Ayuda</th>
+						<th>Política</th>
+					<th >Descubrir</th>
+				</tr>
+				<tr>
+					<td><a href="/t/contact_us" 
+>Ponte en contacto con nosotros</a></td>
+					<td ><a href="/t/advertising" 
+>Publicidad</a></td>
+					<td><a href="http://www.google.com/support/youtube/bin/static.py?page=start.cs&hl=es-ES" 
+>Recursos de ayuda</a></td>
+					<td ><a href="/t/privacy" 
+>Política de privacidad</a></td>
+					<td><a href="/mobile" 
+>YouTube en tu móvil</a></td>
+				</tr>
+				<tr>
+					<td ><a href="/t/about" 
+>Sobre la empresa</a></td>
+							<td ><a href="http://code.google.com/intl/es-ES/apis/youtube/overview.html" 
+>Desarrolladores</a></td>
+					<td><a href="/t/yt_handbook_home" 
+>Manual de YouTube</a></td>
+						<td ><a href="/t/terms" 
+>Términos de uso</a></td>
+					<td><a href="/youtubeonyoursite" 
+>YouTube en tu sitio</a></td>
+				</tr>
+				<tr>
+					<td><a href="/press_room" 
+>Sala de prensa</a></td>
+					<td><a href="/partners" 
+>Asociaciones</a></td>
+					<td><a href="http://www.google.com/support/forum/p/youtube?hl=es" 
+>Foros de ayuda de la comunidad</a></td>
+					<td><a href="/t/copyright_notice" 
+>Avisos de copyright</a></td>
+					<td><a href="/youtubeonyourtv" 
+>YouTube en tu tele</a></td>
+				</tr>
+				<tr>
+					<td><a href="http://ytbizblog.blogspot.com/" 
+>Blog comercial</a></td>
+					<td><a href="/t/content_management" 
+>Sistema de gestión de contenido</a></td>
+					<td ><a href="http://www.google.com/support/youtube/bin/request.py?contact_type=abuse&hl=es-ES" 
+>Centro de seguridad</a></td>
+					<td><a href="/t/community_guidelines" 
+>Normas de la comunidad</a></td>
+					<td><a href="/t/rss_feeds" 
+>Canales RSS de YouTube</a></td>
+				</tr>
+				<tr>
+					<td><a href="/blog" 
+>Blog de YouTube</a></td>
+					<td colspan="3"></td>
+					<td ><a href="/testtube" 
+>TestTube</a></td>
+				</tr>
+			</table>
+		</div>
+			<div class="google-home">
+				<a href="http://www.google.es/webmasters/igoogle/youtube.html">Añadir YouTube a tu página principal de Google</a>
+			</div>
+	</div>
+	<div id="copyright">
+		&copy; 2009 YouTube, LLC
+	</div>
+
+	<!-- end footer section -->
+
+
+
+
+
+
+
+
+
+
+
+	
+</div> <!-- end baseDiv -->
+
+<script type="text/javascript">
+		thumbnailDelayLoad.fudgeFactor = 0;
+
+	// disable this feature for other browsers (webkit, firefox 2) to keep the browser speedy as possible
+	if (document.documentElement["getBoundingClientRect"]) {
+		addListener(window, 'scroll', thumbnailDelayLoad.loadImages);
+		addListener(window, 'resize', thumbnailDelayLoad.loadImages);
+	}
+	thumbnailDelayLoad.loadImages();
+
+		thumbnailDelayLoad.loadAllAtOnce = true;
+</script>
+
+
+
+
+<a name="pageBottom"></a>
+
+
+
+	
+
+
+
+</body>
+	<script type="text/javascript">
+		window.setTimeout(
+			"window.google.ac.install(document.searchForm,document.searchForm.search_query,'yt','es','cerrar', \
+			'Sugerencias', \
+			'Búsqueda en la Web', \
+			-1, \
+			false)", 100);
+	</script>
+
+
+
+</html>

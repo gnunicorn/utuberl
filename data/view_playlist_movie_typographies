@@ -1,0 +1,2454 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+
+
+	<html lang="es">
+
+<!-- machid: WkFSZzctYUFHdmlkRWV2cUJBSXlBekI2eXpld2p5T2hkZWJtZ0JXUTY3YzFtMFAzeEo3YTVB -->
+<head>
+
+	
+	<title>YouTube - Broadcast Yourself.</title>
+
+			<link rel="stylesheet" type="text/css" href="http://s.ytimg.com/yt/cssbin/www-core-vfl109203.css"/>
+
+
+				<link rel="stylesheet" type="text/css" href="http://s.ytimg.com/yt/cssbin/www-the-rest-vfl107989.css"/>
+
+		
+		
+		
+
+
+
+
+	
+
+
+
+
+		<script type="text/javascript" src="http://s.ytimg.com/yt/js/base_all_with_bidi-vfl109280.js"></script>
+
+
+		
+
+
+		<script type="text/javascript">
+			var gIsGoogleAnalyticsEnabled = false;
+			
+	var gXSRF_token = '';
+	var gXSRF_field_name = '';
+	var gXSRF_ql_pair = '';
+	var onLoadFunctionList = onLoadFunctionList || [];
+
+		gXSRF_token = 'TaL81wrOrQn9i1KwdnHGSsOkukx8MTI0ODAwMDY2OQ==';
+		gXSRF_field_name = 'session_token';
+		onLoadFunctionList.push(function() { populate_session_token() });
+
+
+		gXSRF_ql_pair = 'session_token=HkVLVWUhKE97T_NjmEbFbXuOZ9l8MA==';
+
+
+
+
+
+		</script>
+
+		
+	
+
+
+
+
+
+<script>
+	function share() {
+		var fs = window.open( "/share?p=C821D2B210EBF26E",
+				"Share", "toolbar=no,width=546,height=485,status=no,resizable=yes,fullscreen=no,scrollbars=no");
+		fs.focus();
+	}
+</script>
+
+<style type="text/css">
+.viewPlaylistSide {
+	float: right;
+	width: 250px;
+	margin-bottom: 15px;
+}
+.viewPlaylistMain {
+	margin: 0 280px 15px 0;
+	width: 650px;
+}
+.vidlink {
+	display: block;
+	font-size: 10px;
+	width: 245px;
+}
+.vDetailEntry {
+	clear: left;
+	padding: 8px 0px;
+}
+.vDetailEntry:first-child {
+	border-top: 0;
+}
+.vDetailEntry .title {
+	font-size: 14px;
+}
+.vDetailEntry table {
+	border-spacing: 0px;
+	padding: 0px;
+}
+.vDetailEntry td {
+	vertical-align: top;
+}
+/* Styles for sorting */
+#contentBox {
+	padding: 0 6px;
+}
+#sortmedia {
+	overflow: hidden;
+	width: auto;
+}
+#sortmedia #table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	width: 100%;
+	background-color: white;
+}
+#sortmedia #table #headings td {
+	border-bottom: 1px solid #999;
+	font-size: 11px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	background: transparent url(http://s.ytimg.com/yt/img/mmgrads-vfl38740.gif) repeat-x scroll 0 0;
+}
+#sortmedia #table #heading-filter {
+	width: 100%;
+}
+#sortmedia #table #headings td {
+	padding: 2px 4px;
+}
+#sortmedia .sort-field {
+	border-left: 1px solid #666;
+	margin-left: 8px;
+	padding-left: 8px;
+}
+#sortmedia .sort-field-first {
+	margin-left: 8px;
+}
+#sortmedia a.sort-field,
+#sortmedia a.sort-field-first {
+	text-decoration: none;
+}
+/* New styles */
+#playlist-functions a {
+	display: block;
+	cursor: pointer;
+	margin-bottom: 1em;
+}
+#playlist-functions a:hover {
+	text-decoration: none;
+}
+#playlist-functions a:hover span {
+	text-decoration: underline;
+}
+.playlist-list-mast {
+	border-bottom: 1px solid #CCC;
+	margin-top: 25px;
+	font-size: 14px;
+	font-weight: bold;
+	padding-bottom: 9px;
+}
+label.share-urls {
+	color: #666666;
+	font-weight: bold;
+	padding: 3px 5px 0 0;
+}
+</style>
+	
+
+
+	<link rel="search" type="application/opensearchdescription+xml" href="/opensearch?locale=es_ES" title="Búsqueda de vídeos en YouTube">
+	<link rel="icon" href="http://s.ytimg.com/yt/favicon-vfl86530.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://s.ytimg.com/yt/favicon-vfl86530.ico" type="image/x-icon">
+
+
+		<link rel="alternate" media="handheld" href="http://m.youtube.com/view_playlist?desktop_uri=%2Fview_play_list%3Fp%3DC821D2B210EBF26E&p=C821D2B210EBF26E&gl=ES">
+
+
+
+		<meta name="description" content="Comparte tus vídeos con amigos, familia y el mundo.">
+
+	<meta name="keywords" content="vídeo, uso compartido, teléfono con cámara, teléfono con vídeo, gratuito, subida">
+
+</head>
+
+
+<body class="es_ES not-english" onload="performOnLoadFunctions();"  onunload="performOnUnloadFunctions();">
+
+
+
+
+
+
+
+
+
+
+
+<div id="baseDiv" class="date-20090718 video-info  ">
+
+
+	
+
+	<!-- begin top section -->
+			<div id="masthead">
+		<div id="masthead-inner">
+					<a href="/" onmousedown="urchinTracker('/Events/Header_3/YouTubeLogo');" id="logo"><button onclick="window.top.location.href='/'; return false;" class="master-sprite" title=""></button></a>
+			<div id="region-and-language-picker-links-wrapper">
+				<button id="slogan" class="master-sprite" title=""></button>
+						<span class="util-item first with-flag"><a href="#" class="region-picker-link hLink" onclick="loadFlagImgs('region-picker-box'); return false;" onmousedown="urchinTracker('/Events/Header/UtilLinks/I18n/text');">España</a></span>
+	<span class="util-item"><a href="#" class="language-picker-link hLink" onclick="loadFlagImgs('language-picker-box'); return false;" onmousedown="urchinTracker('/Events/Header/UtilLinks/I18n/text');">Español</a></span>
+
+			</div>
+			<div class="user-info">
+					
+
+
+
+	<div id="util-links" class="normal-utility-links">
+
+
+			<span class="util-item first"><b><a class="hLink" href="/signup?next=/view_play_list%3Fp%3DC821D2B210EBF26E" onmousedown="urchinTracker('/Events/Header/UtilLinks/SignUp');">
+Registrarse
+
+		</a></b></span>
+			<span class="util-item"><a class="hLink" href="/watch_queue?all" onmousedown="urchinTracker('/Events/Header/UtilLinks/QuickList');">Lista rápida</a> (<span id="quicklist-utility">0</span>)</span>
+		<span class="util-item"><a class="hLink" href="http://www.google.com/support/youtube/bin/static.py?page=start.cs&hl=es-ES" onmousedown="urchinTracker('/Events/Header/UtilLinks/Help');">Ayuda</a></span>
+
+
+			<span class="util-item"><a class="hLink" href="/login?next=/" onmousedown="urchinTracker('/Events/Header/UtilLinks/SignIn');">Acceder</a></span>
+
+
+	</div>
+
+	<form name="logoutForm" method="post" target="_top" action="/index">
+		<input type="hidden" name="action_logout" value="1">
+	</form>
+
+
+
+			</div>
+			<div id="masthead-region-and-language-picker-box" style="display: none;">Cargando...</div>
+			<div class="clear"></div>
+		</div>
+		
+		<div id="bar" class="master-sprite">
+			<div id="bar-inner">
+					
+					<a class="master-sprite nav-item" href="/" onmousedown="urchinTracker('/Events/Header_3/MainTabs/HomeTab');">Inicio</a>
+
+
+					<a class="master-sprite nav-item" href="/browse" onmousedown="urchinTracker('/Events/Header_3/MainTabs/VideosTab');">Vídeos</a>
+
+
+					<a class="master-sprite nav-item" href="/members" onmousedown="urchinTracker('/Events/Header_3/MainTabs/ChannelsTab');">Canales</a>
+
+					<a class="master-sprite nav-item" href="/community" onmousedown="urchinTracker('/Events/Header_3/MainTabs/CommunityTab');">Comunidad</a>
+					
+
+				<div id="masthead-bar-contents">
+					
+	<form autocomplete="off" class="search-form" action="/results" method="get" name="searchForm">
+		<input id="masthead-search-term" class="search-term" name="search_query" type="text" tabindex="1" onkeyup = "top.goog.i18n.bidi.setDirAttribute(event,this)"  value="" maxlength="128"  onfocus="addClass(this, 'search-term-focus')" onblur="removeClass(this, 'search-term-focus')">
+			<input id="search-type-masthead" name="search_type" type="hidden" value="">
+	<a class="yt-button yt-button-primary" id="" style="" href="#" onclick="document.searchForm.submit(); return false;"><span>Buscar</span></a>
+
+	</form>
+
+							<span class="yt-menubutton yt-menubutton-urgent" id="upload-button" style="" onmouseenter="this.className += ' yt-menubutton-urgent-hover';" onmouseleave="this.className = this.className.replace(' yt-menubutton-urgent-hover', '');"><a class="yt-menubutton-btn yt-button yt-button-urgent" href="/my_videos_upload" onclick="urchinTracker('/Events/Header/UploadButton');"><span>Subir</span></a><a class="yt-menubutton-arr yt-button yt-button-urgent" href="/my_videos_upload" onclick="urchinTracker('/Events/Header/UploadButton');"><button></button><span></span></a><ul class="yt-menubutton-menu"><li><a href="/my_videos_upload" onclick="urchinTracker('/Events/Header/UploadButton');">Subir archivo de vídeo</a></li><li><a href="/my_webcam" onclick="urchinTracker('Events/Header/WebcamButton');">Grabar de cámara web</a></li></ul>  </span>  
+
+				</div>
+				<div class="clearL"></div>
+			</div>	
+		</div>	
+
+		<div class="clear"></div>
+	</div> 
+
+
+			<style type="text/css">
+		.errorParagraph {
+			margin-top: 0px;
+			margin-bottom: 10px;
+		}
+	</style>
+	<div id="default-language-box" style="margin: 10px 0 20px 0; text-align: left; padding: 8px 10px; background-color: #e6efff; border: 1px solid #aeaed5; font-size: 13px;">
+		<div id="default-language-top">
+			<div class="box-close-link"><a href="/view_play_list?p=C821D2B210EBF26E&amp;opt_out_ackd=1hl=es&amp;persist_hl=1&amp;gl=ES&amp;persist_gl=1" class="eLink">Cerrar</a><img alt="Cerrar" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" onclick="hideDiv('default-language-box');"></div>
+			<div id="default-language-translated">
+					<p class="errorParagraph"><strong>¡Bienvenido/a a YouTube!</strong> </p>
+					
+					<p class="errorParagraph"><strong>Sugerencia de idioma (preferencia establecida):</strong>  Español (España)</p>
+					
+					<p class="errorParagraph"><strong>Sugerencia de filtro de país (preferencia establecida):</strong>  España</p>
+					
+					<p class="errorParagraph">El filtro de país muestra tus vídeos populares del país seleccionado en los resultados de búsqueda y en una serie de listas (por ejemplo, <a href="/browse?s=mp">Más vistos</a>).Si deseas cambiar cualquiera de estas preferencias, utiliza los enlaces situados en la parte superior de la página junto al logotipo de YouTube.</p>
+					
+					<p class="errorParagraph">Haz clic en "Aceptar" para aceptar esta configuración o en "Cancelar" para establecer "Inglés (Estados Unidos)" como preferencia de idioma y "Mundial (todos)" como filtro de país.</p>
+								<div style="padding-left: 350px;">
+					<div style="width: 250px;">
+							<a class="yt-button yt-button-urgent" id="" style="" href="/view_play_list?p=C821D2B210EBF26E&amp;opt_out_ackd=1hl=es&amp;persist_hl=1&amp;gl=ES&amp;persist_gl=1" onclick=""><span>Aceptar</span></a>
+							<a class="yt-button" id="" style="" href="/view_play_list?p=C821D2B210EBF26E&amp;opt_out_ackd=1&amp;hl=en&amp;persist_hl=1&amp;gl=US&amp;persist_gl=1" onclick=""><span>Cancelar</span></a>
+					</div>
+				</div>
+
+			</div>
+			<div id="default-language-english" style="display: none;">
+				<br>
+					<p class="errorParagraph"><strong>Welcome to YouTube!</strong> </p>
+					
+					<p class="errorParagraph"><strong>Suggested Language (we have set your preference to this):</strong> Spanish</p>
+					
+					<p class="errorParagraph"><strong>Suggested Country Filter (we have set your preference to this):</strong> Spain</p>
+					
+					<p class="errorParagraph">The country filter shows you popular videos from the selected country on lists like <a href="/browse?s=mp">Most Viewed</a> and in search results. If you would like to change either of these preferences, please use the links next to the YouTube logo at the top of the page.</p>
+					
+					<p class="errorParagraph">Click &quot;OK&quot; to accept these settings, or click &quot;Cancel&quot; to set your language preference to &quot;English (US)&quot; and your country filter to &quot;Worldwide (All)&quot;.</p>
+
+								<div style="padding-left: 350px;">
+					<div style="width: 250px;">
+							<a class="yt-button yt-button-urgent" id="" style="" href="/view_play_list?p=C821D2B210EBF26E&amp;opt_out_ackd=1hl=es&amp;persist_hl=1&amp;gl=ES&amp;persist_gl=1" onclick=""><span>Aceptar</span></a>
+							<a class="yt-button" id="" style="" href="/view_play_list?p=C821D2B210EBF26E&amp;opt_out_ackd=1&amp;hl=en&amp;persist_hl=1&amp;gl=US&amp;persist_gl=1" onclick=""><span>Cancelar</span></a>
+					</div>
+				</div>
+
+			</div>
+				<div id="default-language-english-show-link">
+					<a href="#" style="font-size: 10px; text-decoration: none;" onclick="toggleDisplay2('default-language-english-show-link'); toggleDisplay2('default-language-english-hide-link'); toggleDisplay2('default-language-english'); return false;">Show message in English</a>
+				</div>
+				<div id="default-language-english-hide-link" style="display: none;">
+					<a href="#" style="font-size: 10px; text-decoration: none;" onclick="toggleDisplay2('default-language-english-hide-link'); toggleDisplay2('default-language-english'); toggleDisplay2('default-language-english-show-link'); return false;">Hide message in English</a>
+				</div>
+
+			<div class="clear"></div>
+		</div>
+	</div>
+
+
+	
+
+	
+
+	
+
+
+
+
+
+<h2>Lista de reproducción</h2>
+
+<div style="background-color: #EEE; border: 1px solid #CCC; padding: 7px 6px;">
+	
+	<form name="subscribeToPlaylistC821D2B210EBF26E" method="post" action="/subscription_center" style="float: right;">
+		
+		<input type="hidden" name="add_user_playlist" value="C821D2B210EBF26E">
+		<a class="yt-button yt-button-urgent" id="" style="" href="#" onclick="document.subscribeToPlaylistC821D2B210EBF26E.submit()"><span>Suscribirse</span></a> 
+	</form>
+	
+	
+	<div style="float: left; margin-top: 5px;">
+		<div class="vCluster180WideEntry"><div class="vCluster180WrapperOuter"><div class="vCluster180WrapperInner"><a id="video-url-XpH-A8IEpnY" href="/watch?v=XpH-A8IEpnY&feature=PlayList&p=C821D2B210EBF26E&index=0&playnext=1" rel="nofollow"><img title="Typography" src="http://i1.ytimg.com/vi/XpH-A8IEpnY/hqdefault.jpg" class="vimgCluster180" alt="Typography"></a><div class="video-corner-text"><span>71 vídeos</span></div></div></div></div>
+	</div>
+	<div style="margin-left: 190px;">
+	
+		<h1>Typography</h1>
+		<p>Motion Typography</p>
+	
+		<div class="video-facets" style="margin: 4px 0 10px 0;">
+			<span class="video-date-added">hace 2 meses</span>
+		
+			
+			<span class="video-view-count">271 reproducciones</span>
+			<span class="video-username">
+				<a href="/user/vicpsa" class="hLink">vicpsa</a>
+			</span>
+		</div>
+		<table style="width: 100%;"><tr>
+			<td valign="bottom">
+				<label for="playlist-permalink-url" class="share-urls">Lista de reproducción/URL (enlace permanente):</label>
+				<input id="playlist-permalink-url" class="vidlink" onClick="this.select();" readonly value="http://www.youtube.com/view_play_list?p=C821D2B210EBF26E">
+			</td>
+			<td style="width: 29px;"></td>
+			<td valign="bottom">
+				
+					<label for="playlist-embed-url" class="share-urls">Reproductor insertable:</label>
+					<input id="playlist-embed-url" class="vidlink" onclick="this.select();" readonly 
+						value='<object width="480" height="385"><param name="movie" value="http://www.youtube.com/p/C821D2B210EBF26E&hl=es&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/p/C821D2B210EBF26E&hl=es&amp;fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true"></embed></object>'>
+				
+			</td>
+		</tr></table>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="viewPlaylistMain">
+	<div class="playlist-list-mast">
+		<div class="floatR">
+				<a href="/watch?v=XpH-A8IEpnY&feature=PlayList&p=C821D2B210EBF26E&index=0&playnext=1"><img src="http://s.ytimg.com/yt/img/play_playlistButton-vfl79912.gif" align="absmiddle"></a>&nbsp; <a href="/watch?v=XpH-A8IEpnY&feature=PlayList&p=C821D2B210EBF26E&index=0&playnext=1"><span>Reproducir todos los vídeos</span></a>
+			
+		</div>
+			<span>Vídeos: 71</span>
+	</div>
+
+	<div id="sortmedia">
+	<table id="table">
+	<thead>
+		<tr id="headings">
+			<td colspan="1" id="heading-filter" class="heading">
+			<div class="floatL">
+				Ordenar por:
+				
+				<a class='sort-field-first' href="http://www.youtube.com/view_play_list?p=C821D2B210EBF26E&sort_field=title">Título</a>
+				
+				<a class="sort-field" href="http://www.youtube.com/view_play_list?p=C821D2B210EBF26E&sort_field=duration">Duración</a>
+				
+				<a class="sort-field" href="http://www.youtube.com/view_play_list?p=C821D2B210EBF26E&sort_field=added">Fecha en que se añadió</a>
+				
+				<a class="sort-field" href="http://www.youtube.com/view_play_list?p=C821D2B210EBF26E&sort_field=viewcount">Reproducciones</a>
+				
+					
+					<a class="sort-field" href="http://www.youtube.com/view_play_list?p=C821D2B210EBF26E&sort_field=comment">Comentarios</a>
+				
+				<strong class="sort-field">Sin ordenar</strong>
+			</div>
+			<div class="floatR">
+				
+			</div>
+			</td>
+		</tr>
+	</thead>
+	</table>
+	</div>
+
+	<div class="list-view">
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-XpH-A8IEpnY" href="/watch?v=XpH-A8IEpnY&feature=PlayList&p=C821D2B210EBF26E&index=0"   rel="nofollow"><img title="Trainspotting in Typography"    src="http://i1.ytimg.com/vi/XpH-A8IEpnY/default.jpg" class="vimg120" qlicon="XpH-A8IEpnY" alt="Trainspotting in Typography"></a><div id="quicklist-icon-XpH-A8IEpnY" class="addtoQL90"><a id="add-to-quicklist-XpH-A8IEpnY" href="#"  ql="XpH-A8IEpnY" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/XpH-A8IEpnY/default.jpg', 'Trainspotting in Typography');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-XpH-A8IEpnY">2:50</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-XpH-A8IEpnY">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_XpH-A8IEpnY" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-XpH-A8IEpnY" href="/watch?v=XpH-A8IEpnY&feature=PlayList&p=C821D2B210EBF26E&index=0"  title="Trainspotting in Typography" rel="nofollow">Trainspotting in Typography</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_XpH-A8IEpnY" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-XpH-A8IEpnY" href="/watch?v=XpH-A8IEpnY&feature=PlayList&p=C821D2B210EBF26E&index=0"  title="Trainspotting in Typography" rel="nofollow">Trainspotting in Typography</a>
+				</div>
+			</div>
+
+				<div id="video-description-XpH-A8IEpnY"  class="video-description">
+					Intro Trainspotting in Typography.
+Motion design with after-effects.
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-XpH-A8IEpnY" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-XpH-A8IEpnY" class="video-date-added">hace 2 años</span>
+
+					<span id="video-num-views-XpH-A8IEpnY" class="video-view-count">26153 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-XpH-A8IEpnY" class="hLink"  href="/user/yoricka">yoricka</a></span>
+
+
+					<span id="video-average-rating-XpH-A8IEpnY" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-nRIZ97okXgQ" href="/watch?v=nRIZ97okXgQ&feature=PlayList&p=C821D2B210EBF26E&index=1"   rel="nofollow"><img title="Typography: Little Miss Sunshine"    src="http://i3.ytimg.com/vi/nRIZ97okXgQ/default.jpg" class="vimg120" qlicon="nRIZ97okXgQ" alt="Typography: Little Miss Sunshine"></a><div id="quicklist-icon-nRIZ97okXgQ" class="addtoQL90"><a id="add-to-quicklist-nRIZ97okXgQ" href="#"  ql="nRIZ97okXgQ" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/nRIZ97okXgQ/default.jpg', 'Typography: Little Miss Sunshine');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-nRIZ97okXgQ">0:31</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-nRIZ97okXgQ">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_nRIZ97okXgQ" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-nRIZ97okXgQ" href="/watch?v=nRIZ97okXgQ&feature=PlayList&p=C821D2B210EBF26E&index=1"  title="Typography: Little Miss Sunshine" rel="nofollow">Typography: Little Miss Sunshine</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_nRIZ97okXgQ" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-nRIZ97okXgQ" href="/watch?v=nRIZ97okXgQ&feature=PlayList&p=C821D2B210EBF26E&index=1"  title="Typography: Little Miss Sunshine" rel="nofollow">Typography: Little Miss Sunshine</a>
+				</div>
+			</div>
+
+				<div id="video-description-nRIZ97okXgQ"  class="video-description">
+					Typography assignment for my Dynamic 1 class at SVA ( School of Visual Arts) using...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-nRIZ97okXgQ" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-nRIZ97okXgQ" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-nRIZ97okXgQ" class="video-view-count">22650 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-nRIZ97okXgQ" class="hLink"  href="/user/Jesnauta">Jesnauta</a></span>
+
+
+					<span id="video-average-rating-nRIZ97okXgQ" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-tVvbPbhQ9m8" href="/watch?v=tVvbPbhQ9m8&feature=PlayList&p=C821D2B210EBF26E&index=2"   rel="nofollow"><img title="Typography: Thank You For Smoking"    src="http://i1.ytimg.com/vi/tVvbPbhQ9m8/default.jpg" class="vimg120" qlicon="tVvbPbhQ9m8" alt="Typography: Thank You For Smoking"></a><div id="quicklist-icon-tVvbPbhQ9m8" class="addtoQL90"><a id="add-to-quicklist-tVvbPbhQ9m8" href="#"  ql="tVvbPbhQ9m8" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/tVvbPbhQ9m8/default.jpg', 'Typography: Thank You For Smoking');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-tVvbPbhQ9m8">1:11</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-tVvbPbhQ9m8">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_tVvbPbhQ9m8" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-tVvbPbhQ9m8" href="/watch?v=tVvbPbhQ9m8&feature=PlayList&p=C821D2B210EBF26E&index=2"  title="Typography: Thank You For Smoking" rel="nofollow">Typography: Thank You For Smoking</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_tVvbPbhQ9m8" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-tVvbPbhQ9m8" href="/watch?v=tVvbPbhQ9m8&feature=PlayList&p=C821D2B210EBF26E&index=2"  title="Typography: Thank You For Smoking" rel="nofollow">Typography: Thank You For Smoking</a>
+				</div>
+			</div>
+
+				<div id="video-description-tVvbPbhQ9m8"  class="video-description">
+					See more of my stuff: www.vimeo.com/georgehorne
+
+An exercise in Typography and a...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-tVvbPbhQ9m8" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-tVvbPbhQ9m8" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-tVvbPbhQ9m8" class="video-view-count">31552 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-tVvbPbhQ9m8" class="hLink"  href="/user/FrontLinePictures">FrontLinePictures</a></span>
+
+
+					<span id="video-average-rating-tVvbPbhQ9m8" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-XyZbxKC48X4" href="/watch?v=XyZbxKC48X4&feature=PlayList&p=C821D2B210EBF26E&index=3"   rel="nofollow"><img title="REQUIEM FOR A DREAM in typography / motion type"    src="http://i1.ytimg.com/vi/XyZbxKC48X4/default.jpg" class="vimg120" qlicon="XyZbxKC48X4" alt="REQUIEM FOR A DREAM in typography / motion type"></a><div id="quicklist-icon-XyZbxKC48X4" class="addtoQL90"><a id="add-to-quicklist-XyZbxKC48X4" href="#"  ql="XyZbxKC48X4" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/XyZbxKC48X4/default.jpg', 'REQUIEM FOR A DREAM in typography / motion type');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-XyZbxKC48X4">1:01</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-XyZbxKC48X4">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_XyZbxKC48X4" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-XyZbxKC48X4" href="/watch?v=XyZbxKC48X4&feature=PlayList&p=C821D2B210EBF26E&index=3"  title="REQUIEM FOR A DREAM in typography / motion type" rel="nofollow">REQUIEM FOR A DREAM in typograph...</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_XyZbxKC48X4" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-XyZbxKC48X4" href="/watch?v=XyZbxKC48X4&feature=PlayList&p=C821D2B210EBF26E&index=3"  title="REQUIEM FOR A DREAM in typography / motion type" rel="nofollow">REQUIEM FOR A DREAM in typography / motion type</a>
+				</div>
+			</div>
+
+				<div id="video-description-XyZbxKC48X4"  class="video-description">
+					The "You're on uppers" scene in REQUIEM FOR A DREAM portrayed using nothing but ki...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-XyZbxKC48X4" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-XyZbxKC48X4" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-XyZbxKC48X4" class="video-view-count">38751 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-XyZbxKC48X4" class="hLink"  href="/user/newsblog">newsblog</a></span>
+
+
+					<span id="video-average-rating-XyZbxKC48X4" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-uuiKJ0rRTAo" href="/watch?v=uuiKJ0rRTAo&feature=PlayList&p=C821D2B210EBF26E&index=4"   rel="nofollow"><img title="Fight Club - Chemical Burn - Kinetic Typography"    src="http://i2.ytimg.com/vi/uuiKJ0rRTAo/default.jpg" class="vimg120" qlicon="uuiKJ0rRTAo" alt="Fight Club - Chemical Burn - Kinetic Typography"></a><div id="quicklist-icon-uuiKJ0rRTAo" class="addtoQL90"><a id="add-to-quicklist-uuiKJ0rRTAo" href="#"  ql="uuiKJ0rRTAo" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i2.ytimg.com/vi/uuiKJ0rRTAo/default.jpg', 'Fight Club - Chemical Burn - Kinetic Typography');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-uuiKJ0rRTAo">2:25</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-uuiKJ0rRTAo">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_uuiKJ0rRTAo" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-uuiKJ0rRTAo" href="/watch?v=uuiKJ0rRTAo&feature=PlayList&p=C821D2B210EBF26E&index=4"  title="Fight Club - Chemical Burn - Kinetic Typography" rel="nofollow">Fight Club - Chemical Burn - Kin...</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_uuiKJ0rRTAo" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-uuiKJ0rRTAo" href="/watch?v=uuiKJ0rRTAo&feature=PlayList&p=C821D2B210EBF26E&index=4"  title="Fight Club - Chemical Burn - Kinetic Typography" rel="nofollow">Fight Club - Chemical Burn - Kinetic Typography</a>
+				</div>
+			</div>
+
+				<div id="video-description-uuiKJ0rRTAo"  class="video-description">
+					A typography experiment animated and designed by graphic artist Sebastian Jaramill...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-uuiKJ0rRTAo" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-uuiKJ0rRTAo" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-uuiKJ0rRTAo" class="video-view-count">372860 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-uuiKJ0rRTAo" class="hLink"  href="/user/gordoteins">gordoteins</a></span>
+
+
+					<span id="video-average-rating-uuiKJ0rRTAo" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-fbMa4MGFCOg" href="/watch?v=fbMa4MGFCOg&feature=PlayList&p=C821D2B210EBF26E&index=5"   rel="nofollow"><img title="The 8 rules of Fight Club - Kinetic Typography"    src="http://i3.ytimg.com/vi/fbMa4MGFCOg/default.jpg" class="vimg120" qlicon="fbMa4MGFCOg" alt="The 8 rules of Fight Club - Kinetic Typography"></a><div id="quicklist-icon-fbMa4MGFCOg" class="addtoQL90"><a id="add-to-quicklist-fbMa4MGFCOg" href="#"  ql="fbMa4MGFCOg" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/fbMa4MGFCOg/default.jpg', 'The 8 rules of Fight Club - Kinetic Typography');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-fbMa4MGFCOg">1:04</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-fbMa4MGFCOg">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_fbMa4MGFCOg" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-fbMa4MGFCOg" href="/watch?v=fbMa4MGFCOg&feature=PlayList&p=C821D2B210EBF26E&index=5"  title="The 8 rules of Fight Club - Kinetic Typography" rel="nofollow">The 8 rules of Fight Club - Kine...</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_fbMa4MGFCOg" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-fbMa4MGFCOg" href="/watch?v=fbMa4MGFCOg&feature=PlayList&p=C821D2B210EBF26E&index=5"  title="The 8 rules of Fight Club - Kinetic Typography" rel="nofollow">The 8 rules of Fight Club - Kinetic Typography</a>
+				</div>
+			</div>
+
+				<div id="video-description-fbMa4MGFCOg"  class="video-description">
+					The Eight rules of Fight Club. Kinetic typography experiment for a college project...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-fbMa4MGFCOg" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-fbMa4MGFCOg" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-fbMa4MGFCOg" class="video-view-count">255093 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-fbMa4MGFCOg" class="hLink"  href="/user/jerryhatt">jerryhatt</a></span>
+
+
+					<span id="video-average-rating-fbMa4MGFCOg" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-rsucK43_DoM" href="/watch?v=rsucK43_DoM&feature=PlayList&p=C821D2B210EBF26E&index=6"   rel="nofollow"><img title="The Big Lebowski Typography"    src="http://i3.ytimg.com/vi/rsucK43_DoM/default.jpg" class="vimg120" qlicon="rsucK43_DoM" alt="The Big Lebowski Typography"></a><div id="quicklist-icon-rsucK43_DoM" class="addtoQL90"><a id="add-to-quicklist-rsucK43_DoM" href="#"  ql="rsucK43_DoM" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/rsucK43_DoM/default.jpg', 'The Big Lebowski Typography');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-rsucK43_DoM">0:51</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-rsucK43_DoM">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_rsucK43_DoM" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-rsucK43_DoM" href="/watch?v=rsucK43_DoM&feature=PlayList&p=C821D2B210EBF26E&index=6"  title="The Big Lebowski Typography" rel="nofollow">The Big Lebowski Typography</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_rsucK43_DoM" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-rsucK43_DoM" href="/watch?v=rsucK43_DoM&feature=PlayList&p=C821D2B210EBF26E&index=6"  title="The Big Lebowski Typography" rel="nofollow">The Big Lebowski Typography</a>
+				</div>
+			</div>
+
+				<div id="video-description-rsucK43_DoM"  class="video-description">
+					Scene from the The Big Lebowski in Typography. Thanks to Jesus Quintana, The Dude ...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-rsucK43_DoM" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-rsucK43_DoM" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-rsucK43_DoM" class="video-view-count">218846 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-rsucK43_DoM" class="hLink"  href="/user/kdekr">kdekr</a></span>
+
+
+					<span id="video-average-rating-rsucK43_DoM" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-rIDdx7NPJgo" href="/watch?v=rIDdx7NPJgo&feature=PlayList&p=C821D2B210EBF26E&index=7"   rel="nofollow"><img title="Oceans Eleven Project"    src="http://i3.ytimg.com/vi/rIDdx7NPJgo/default.jpg" class="vimg120" qlicon="rIDdx7NPJgo" alt="Oceans Eleven Project"></a><div id="quicklist-icon-rIDdx7NPJgo" class="addtoQL90"><a id="add-to-quicklist-rIDdx7NPJgo" href="#"  ql="rIDdx7NPJgo" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/rIDdx7NPJgo/default.jpg', 'Oceans Eleven Project');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-rIDdx7NPJgo">0:59</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-rIDdx7NPJgo">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_rIDdx7NPJgo" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-rIDdx7NPJgo" href="/watch?v=rIDdx7NPJgo&feature=PlayList&p=C821D2B210EBF26E&index=7"  title="Oceans Eleven Project" rel="nofollow">Oceans Eleven Project</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_rIDdx7NPJgo" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-rIDdx7NPJgo" href="/watch?v=rIDdx7NPJgo&feature=PlayList&p=C821D2B210EBF26E&index=7"  title="Oceans Eleven Project" rel="nofollow">Oceans Eleven Project</a>
+				</div>
+			</div>
+
+				<div id="video-description-rIDdx7NPJgo"  class="video-description">
+					My first attempt at animation, and After Effects.  Project Description: Take 45 se...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-rIDdx7NPJgo" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-rIDdx7NPJgo" class="video-date-added">hace 3 años</span>
+
+					<span id="video-num-views-rIDdx7NPJgo" class="video-view-count">203181 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-rIDdx7NPJgo" class="hLink"  href="/user/callme4b">callme4b</a></span>
+
+
+					<span id="video-average-rating-rIDdx7NPJgo" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-6mnvvVi4HaI" href="/watch?v=6mnvvVi4HaI&feature=PlayList&p=C821D2B210EBF26E&index=8"   rel="nofollow"><img title="Nick the Greek"    src="http://i3.ytimg.com/vi/6mnvvVi4HaI/default.jpg" class="vimg120" qlicon="6mnvvVi4HaI" alt="Nick the Greek"></a><div id="quicklist-icon-6mnvvVi4HaI" class="addtoQL90"><a id="add-to-quicklist-6mnvvVi4HaI" href="#"  ql="6mnvvVi4HaI" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/6mnvvVi4HaI/default.jpg', 'Nick the Greek');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-6mnvvVi4HaI">0:57</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-6mnvvVi4HaI">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_6mnvvVi4HaI" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-6mnvvVi4HaI" href="/watch?v=6mnvvVi4HaI&feature=PlayList&p=C821D2B210EBF26E&index=8"  title="Nick the Greek" rel="nofollow">Nick the Greek</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_6mnvvVi4HaI" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-6mnvvVi4HaI" href="/watch?v=6mnvvVi4HaI&feature=PlayList&p=C821D2B210EBF26E&index=8"  title="Nick the Greek" rel="nofollow">Nick the Greek</a>
+				</div>
+			</div>
+
+				<div id="video-description-6mnvvVi4HaI"  class="video-description">
+					Typographical response taken from the film, Lock Stock and Two Smoking Barrels.
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-6mnvvVi4HaI" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-6mnvvVi4HaI" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-6mnvvVi4HaI" class="video-view-count">80382 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-6mnvvVi4HaI" class="hLink"  href="/user/benwhite1980">benwhite1980</a></span>
+
+
+					<span id="video-average-rating-6mnvvVi4HaI" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-HePWBNcugf8" href="/watch?v=HePWBNcugf8&feature=PlayList&p=C821D2B210EBF26E&index=9"   rel="nofollow"><img title="Pulp Fiction in Motion Graphics"    src="http://i1.ytimg.com/vi/HePWBNcugf8/default.jpg" class="vimg120" qlicon="HePWBNcugf8" alt="Pulp Fiction in Motion Graphics"></a><div id="quicklist-icon-HePWBNcugf8" class="addtoQL90"><a id="add-to-quicklist-HePWBNcugf8" href="#"  ql="HePWBNcugf8" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/HePWBNcugf8/default.jpg', 'Pulp Fiction in Motion Graphics');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-HePWBNcugf8">0:57</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-HePWBNcugf8">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_HePWBNcugf8" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-HePWBNcugf8" href="/watch?v=HePWBNcugf8&feature=PlayList&p=C821D2B210EBF26E&index=9"  title="Pulp Fiction in Motion Graphics" rel="nofollow">Pulp Fiction in Motion Graphics</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_HePWBNcugf8" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-HePWBNcugf8" href="/watch?v=HePWBNcugf8&feature=PlayList&p=C821D2B210EBF26E&index=9"  title="Pulp Fiction in Motion Graphics" rel="nofollow">Pulp Fiction in Motion Graphics</a>
+				</div>
+			</div>
+
+				<div id="video-description-HePWBNcugf8"  class="video-description">
+					Scene in Pulp Fiction represented with Typography. By Jarratt Moody. 
+
+http://ww...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-HePWBNcugf8" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-HePWBNcugf8" class="video-date-added">hace 2 años</span>
+
+					<span id="video-num-views-HePWBNcugf8" class="video-view-count">164742 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-HePWBNcugf8" class="hLink"  href="/user/Shpongl3d">Shpongl3d</a></span>
+
+
+					<span id="video-average-rating-HePWBNcugf8" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-RbRFOS-2NqY" href="/watch?v=RbRFOS-2NqY&feature=PlayList&p=C821D2B210EBF26E&index=10"   rel="nofollow"><img title="Pulp Fiction Kinetic Typography"    src="http://i3.ytimg.com/vi/RbRFOS-2NqY/default.jpg" class="vimg120" qlicon="RbRFOS-2NqY" alt="Pulp Fiction Kinetic Typography"></a><div id="quicklist-icon-RbRFOS-2NqY" class="addtoQL90"><a id="add-to-quicklist-RbRFOS-2NqY" href="#"  ql="RbRFOS-2NqY" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/RbRFOS-2NqY/default.jpg', 'Pulp Fiction Kinetic Typography');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-RbRFOS-2NqY">1:32</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-RbRFOS-2NqY">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_RbRFOS-2NqY" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-RbRFOS-2NqY" href="/watch?v=RbRFOS-2NqY&feature=PlayList&p=C821D2B210EBF26E&index=10"  title="Pulp Fiction Kinetic Typography" rel="nofollow">Pulp Fiction Kinetic Typography</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_RbRFOS-2NqY" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-RbRFOS-2NqY" href="/watch?v=RbRFOS-2NqY&feature=PlayList&p=C821D2B210EBF26E&index=10"  title="Pulp Fiction Kinetic Typography" rel="nofollow">Pulp Fiction Kinetic Typography</a>
+				</div>
+			</div>
+
+				<div id="video-description-RbRFOS-2NqY"  class="video-description">
+					Marvin gets shot in the face
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-RbRFOS-2NqY" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-RbRFOS-2NqY" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-RbRFOS-2NqY" class="video-view-count">56031 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-RbRFOS-2NqY" class="hLink"  href="/user/thedukeoferla">thedukeoferla</a></span>
+
+
+					<span id="video-average-rating-RbRFOS-2NqY" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-_sDYPSNyLkM" href="/watch?v=_sDYPSNyLkM&feature=PlayList&p=C821D2B210EBF26E&index=11"   rel="nofollow"><img title="12 Monkeys Kinetic Typography"    src="http://i4.ytimg.com/vi/_sDYPSNyLkM/default.jpg" class="vimg120" qlicon="_sDYPSNyLkM" alt="12 Monkeys Kinetic Typography"></a><div id="quicklist-icon-_sDYPSNyLkM" class="addtoQL90"><a id="add-to-quicklist-_sDYPSNyLkM" href="#"  ql="_sDYPSNyLkM" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i4.ytimg.com/vi/_sDYPSNyLkM/default.jpg', '12 Monkeys Kinetic Typography');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-_sDYPSNyLkM">0:35</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-_sDYPSNyLkM">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix__sDYPSNyLkM" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-_sDYPSNyLkM" href="/watch?v=_sDYPSNyLkM&feature=PlayList&p=C821D2B210EBF26E&index=11"  title="12 Monkeys Kinetic Typography" rel="nofollow">12 Monkeys Kinetic Typography</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix__sDYPSNyLkM" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-_sDYPSNyLkM" href="/watch?v=_sDYPSNyLkM&feature=PlayList&p=C821D2B210EBF26E&index=11"  title="12 Monkeys Kinetic Typography" rel="nofollow">12 Monkeys Kinetic Typography</a>
+				</div>
+			</div>
+
+				<div id="video-description-_sDYPSNyLkM"  class="video-description">
+					Kinetic Typography project for my Digital Effects class.
+
+Credits:
+Design & Ani...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-_sDYPSNyLkM" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.0" title="4.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-_sDYPSNyLkM" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-_sDYPSNyLkM" class="video-view-count">11521 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-_sDYPSNyLkM" class="hLink"  href="/user/UncleGrandfathr">UncleGrandfathr</a></span>
+
+
+					<span id="video-average-rating-_sDYPSNyLkM" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.0" title="4.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-MpH6mFdNe70" href="/watch?v=MpH6mFdNe70&feature=PlayList&p=C821D2B210EBF26E&index=12"   rel="nofollow"><img title="Pulp Fiction Typography Coffee Scene"    src="http://i2.ytimg.com/vi/MpH6mFdNe70/default.jpg" class="vimg120" qlicon="MpH6mFdNe70" alt="Pulp Fiction Typography Coffee Scene"></a><div id="quicklist-icon-MpH6mFdNe70" class="addtoQL90"><a id="add-to-quicklist-MpH6mFdNe70" href="#"  ql="MpH6mFdNe70" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i2.ytimg.com/vi/MpH6mFdNe70/default.jpg', 'Pulp Fiction Typography Coffee Scene');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-MpH6mFdNe70">0:32</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-MpH6mFdNe70">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_MpH6mFdNe70" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-MpH6mFdNe70" href="/watch?v=MpH6mFdNe70&feature=PlayList&p=C821D2B210EBF26E&index=12"  title="Pulp Fiction Typography Coffee Scene" rel="nofollow">Pulp Fiction Typography Coffee S...</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_MpH6mFdNe70" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-MpH6mFdNe70" href="/watch?v=MpH6mFdNe70&feature=PlayList&p=C821D2B210EBF26E&index=12"  title="Pulp Fiction Typography Coffee Scene" rel="nofollow">Pulp Fiction Typography Coffee Scene</a>
+				</div>
+			</div>
+
+				<div id="video-description-MpH6mFdNe70"  class="video-description">
+					This is my attempt at Typography!! If you like it you shoudl also watch the other ...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-MpH6mFdNe70" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-3.0" title="3.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-MpH6mFdNe70" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-MpH6mFdNe70" class="video-view-count">19467 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-MpH6mFdNe70" class="hLink"  href="/user/ReservoirDentPie">ReservoirDentPie</a></span>
+
+
+					<span id="video-average-rating-MpH6mFdNe70" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-3.0" title="3.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-PtFoMa8vzAQ" href="/watch?v=PtFoMa8vzAQ&feature=PlayList&p=C821D2B210EBF26E&index=13"   rel="nofollow"><img title="&quot;Trainspotting&quot; in kinetic typography."    src="http://i1.ytimg.com/vi/PtFoMa8vzAQ/default.jpg" class="vimg120" qlicon="PtFoMa8vzAQ" alt="&quot;Trainspotting&quot; in kinetic typography."></a><div id="quicklist-icon-PtFoMa8vzAQ" class="addtoQL90"><a id="add-to-quicklist-PtFoMa8vzAQ" href="#"  ql="PtFoMa8vzAQ" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/PtFoMa8vzAQ/default.jpg', '&quot;Trainspotting&quot; in kinetic typography.');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-PtFoMa8vzAQ">1:16</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-PtFoMa8vzAQ">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_PtFoMa8vzAQ" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-PtFoMa8vzAQ" href="/watch?v=PtFoMa8vzAQ&feature=PlayList&p=C821D2B210EBF26E&index=13"  title="&quot;Trainspotting&quot; in kinetic typography." rel="nofollow">"Trainspotting" in kinetic typog...</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_PtFoMa8vzAQ" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-PtFoMa8vzAQ" href="/watch?v=PtFoMa8vzAQ&feature=PlayList&p=C821D2B210EBF26E&index=13"  title="&quot;Trainspotting&quot; in kinetic typography." rel="nofollow">"Trainspotting" in kinetic typography.</a>
+				</div>
+			</div>
+
+				<div id="video-description-PtFoMa8vzAQ"  class="video-description">
+					This is my first time using After Effects and Illustrator for animation and typogr...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-PtFoMa8vzAQ" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-PtFoMa8vzAQ" class="video-date-added">hace 9 meses</span>
+
+					<span id="video-num-views-PtFoMa8vzAQ" class="video-view-count">681 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-PtFoMa8vzAQ" class="hLink"  href="/user/bjdowns">bjdowns</a></span>
+
+
+					<span id="video-average-rating-PtFoMa8vzAQ" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-89431mCWUvg" href="/watch?v=89431mCWUvg&feature=PlayList&p=C821D2B210EBF26E&index=14"   rel="nofollow"><img title="Choose Life - Trainspotting(typography)"    src="http://i1.ytimg.com/vi/89431mCWUvg/default.jpg" class="vimg120" qlicon="89431mCWUvg" alt="Choose Life - Trainspotting(typography)"></a><div id="quicklist-icon-89431mCWUvg" class="addtoQL90"><a id="add-to-quicklist-89431mCWUvg" href="#"  ql="89431mCWUvg" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/89431mCWUvg/default.jpg', 'Choose Life - Trainspotting(typography)');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-89431mCWUvg">0:58</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-89431mCWUvg">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_89431mCWUvg" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-89431mCWUvg" href="/watch?v=89431mCWUvg&feature=PlayList&p=C821D2B210EBF26E&index=14"  title="Choose Life - Trainspotting(typography)" rel="nofollow">Choose Life - Trainspotting(t yp...</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_89431mCWUvg" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-89431mCWUvg" href="/watch?v=89431mCWUvg&feature=PlayList&p=C821D2B210EBF26E&index=14"  title="Choose Life - Trainspotting(typography)" rel="nofollow">Choose Life - Trainspotting(t ypography)</a>
+				</div>
+			</div>
+
+				<div id="video-description-89431mCWUvg"  class="video-description">
+					made by: Ylli & Jussa.
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-89431mCWUvg" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-89431mCWUvg" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-89431mCWUvg" class="video-view-count">1558 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-89431mCWUvg" class="hLink"  href="/user/jjuussaa">jjuussaa</a></span>
+
+
+					<span id="video-average-rating-89431mCWUvg" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-3sxJrN-DFpM" href="/watch?v=3sxJrN-DFpM&feature=PlayList&p=C821D2B210EBF26E&index=15"   rel="nofollow"><img title="Trainspotting Typography"    src="http://i4.ytimg.com/vi/3sxJrN-DFpM/default.jpg" class="vimg120" qlicon="3sxJrN-DFpM" alt="Trainspotting Typography"></a><div id="quicklist-icon-3sxJrN-DFpM" class="addtoQL90"><a id="add-to-quicklist-3sxJrN-DFpM" href="#"  ql="3sxJrN-DFpM" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i4.ytimg.com/vi/3sxJrN-DFpM/default.jpg', 'Trainspotting Typography');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-3sxJrN-DFpM">0:50</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-3sxJrN-DFpM">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_3sxJrN-DFpM" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-3sxJrN-DFpM" href="/watch?v=3sxJrN-DFpM&feature=PlayList&p=C821D2B210EBF26E&index=15"  title="Trainspotting Typography" rel="nofollow">Trainspotting Typography</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_3sxJrN-DFpM" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-3sxJrN-DFpM" href="/watch?v=3sxJrN-DFpM&feature=PlayList&p=C821D2B210EBF26E&index=15"  title="Trainspotting Typography" rel="nofollow">Trainspotting Typography</a>
+				</div>
+			</div>
+
+				<div id="video-description-3sxJrN-DFpM"  class="video-description">
+					Remake of the trainspotting typography. Fixed the audio.
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-3sxJrN-DFpM" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-3sxJrN-DFpM" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-3sxJrN-DFpM" class="video-view-count">1363 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-3sxJrN-DFpM" class="hLink"  href="/user/littleghost82">littleghost82</a></span>
+
+
+					<span id="video-average-rating-3sxJrN-DFpM" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-dqWQNKnIBpE" href="/watch?v=dqWQNKnIBpE&feature=PlayList&p=C821D2B210EBF26E&index=16"   rel="nofollow"><img title="Trainspotting Choose Life ( kinetic typography)"    src="http://i1.ytimg.com/vi/dqWQNKnIBpE/default.jpg" class="vimg120" qlicon="dqWQNKnIBpE" alt="Trainspotting Choose Life ( kinetic typography)"></a><div id="quicklist-icon-dqWQNKnIBpE" class="addtoQL90"><a id="add-to-quicklist-dqWQNKnIBpE" href="#"  ql="dqWQNKnIBpE" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i1.ytimg.com/vi/dqWQNKnIBpE/default.jpg', 'Trainspotting Choose Life ( kinetic typography)');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-dqWQNKnIBpE">1:40</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-dqWQNKnIBpE">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_dqWQNKnIBpE" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-dqWQNKnIBpE" href="/watch?v=dqWQNKnIBpE&feature=PlayList&p=C821D2B210EBF26E&index=16"  title="Trainspotting Choose Life ( kinetic typography)" rel="nofollow">Trainspotting Choose Life ( kine...</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_dqWQNKnIBpE" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-dqWQNKnIBpE" href="/watch?v=dqWQNKnIBpE&feature=PlayList&p=C821D2B210EBF26E&index=16"  title="Trainspotting Choose Life ( kinetic typography)" rel="nofollow">Trainspotting Choose Life ( kinetic typography)</a>
+				</div>
+			</div>
+
+				<div id="video-description-dqWQNKnIBpE"  class="video-description">
+					kinetic typography trainspotting Choose Life
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-dqWQNKnIBpE" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-dqWQNKnIBpE" class="video-date-added">hace 9 meses</span>
+
+					<span id="video-num-views-dqWQNKnIBpE" class="video-view-count">3630 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-dqWQNKnIBpE" class="hLink"  href="/user/qppbaart">qppbaart</a></span>
+
+
+					<span id="video-average-rating-dqWQNKnIBpE" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-E_KQwKCulJM" href="/watch?v=E_KQwKCulJM&feature=PlayList&p=C821D2B210EBF26E&index=17"   rel="nofollow"><img title="Royale With Cheese Typography"    src="http://i2.ytimg.com/vi/E_KQwKCulJM/default.jpg" class="vimg120" qlicon="E_KQwKCulJM" alt="Royale With Cheese Typography"></a><div id="quicklist-icon-E_KQwKCulJM" class="addtoQL90"><a id="add-to-quicklist-E_KQwKCulJM" href="#"  ql="E_KQwKCulJM" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i2.ytimg.com/vi/E_KQwKCulJM/default.jpg', 'Royale With Cheese Typography');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-E_KQwKCulJM">0:42</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-E_KQwKCulJM">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_E_KQwKCulJM" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-E_KQwKCulJM" href="/watch?v=E_KQwKCulJM&feature=PlayList&p=C821D2B210EBF26E&index=17"  title="Royale With Cheese Typography" rel="nofollow">Royale With Cheese Typography</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_E_KQwKCulJM" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-E_KQwKCulJM" href="/watch?v=E_KQwKCulJM&feature=PlayList&p=C821D2B210EBF26E&index=17"  title="Royale With Cheese Typography" rel="nofollow">Royale With Cheese Typography</a>
+				</div>
+			</div>
+
+				<div id="video-description-E_KQwKCulJM"  class="video-description">
+					Schoolproject on Kinetic Typography. Dialog from Pulp Fiction. Made by Thomas Schr...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-E_KQwKCulJM" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-E_KQwKCulJM" class="video-date-added">hace 9 meses</span>
+
+					<span id="video-num-views-E_KQwKCulJM" class="video-view-count">5293 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-E_KQwKCulJM" class="hLink"  href="/user/RadicalizedNL">RadicalizedNL</a></span>
+
+
+					<span id="video-average-rating-E_KQwKCulJM" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-4.5" title="4.5"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-KknOmDVBxik" href="/watch?v=KknOmDVBxik&feature=PlayList&p=C821D2B210EBF26E&index=18"   rel="nofollow"><img title="trainspotting in motion"    src="http://i4.ytimg.com/vi/KknOmDVBxik/default.jpg" class="vimg120" qlicon="KknOmDVBxik" alt="trainspotting in motion"></a><div id="quicklist-icon-KknOmDVBxik" class="addtoQL90"><a id="add-to-quicklist-KknOmDVBxik" href="#"  ql="KknOmDVBxik" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i4.ytimg.com/vi/KknOmDVBxik/default.jpg', 'trainspotting in motion');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-KknOmDVBxik">1:42</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-KknOmDVBxik">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_KknOmDVBxik" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-KknOmDVBxik" href="/watch?v=KknOmDVBxik&feature=PlayList&p=C821D2B210EBF26E&index=18"  title="trainspotting in motion" rel="nofollow">trainspotting in motion</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_KknOmDVBxik" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-KknOmDVBxik" href="/watch?v=KknOmDVBxik&feature=PlayList&p=C821D2B210EBF26E&index=18"  title="trainspotting in motion" rel="nofollow">trainspotting in motion</a>
+				</div>
+			</div>
+
+				<div id="video-description-KknOmDVBxik"  class="video-description">
+					a student project for the class typography in motion...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-KknOmDVBxik" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-KknOmDVBxik" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-KknOmDVBxik" class="video-view-count">359 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-KknOmDVBxik" class="hLink"  href="/user/bessawessa">bessawessa</a></span>
+
+
+					<span id="video-average-rating-KknOmDVBxik" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+			
+<div class="video-cell" style="width:19.6%">
+
+
+
+	
+	
+
+
+	<div class="video-entry">
+
+
+
+
+			<div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a id="video-url-V9uaTQS-RkM" href="/watch?v=V9uaTQS-RkM&feature=PlayList&p=C821D2B210EBF26E&index=19"   rel="nofollow"><img title="Choose (animated monolouge from Trainspotting)"    src="http://i3.ytimg.com/vi/V9uaTQS-RkM/default.jpg" class="vimg120" qlicon="V9uaTQS-RkM" alt="Choose (animated monolouge from Trainspotting)"></a><div id="quicklist-icon-V9uaTQS-RkM" class="addtoQL90"><a id="add-to-quicklist-V9uaTQS-RkM" href="#"  ql="V9uaTQS-RkM" title="Añadir vídeo a lista rápida"><button class="master-sprite QLIconImg" title=""
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://i3.ytimg.com/vi/V9uaTQS-RkM/default.jpg', 'Choose (animated monolouge from Trainspotting)');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"
+	onmousedown="urchinTracker('/Events/view_play_list/QuickList+AddTo')"></button><div class="hid quicklist-inlist"><a href="/watch_queue?all">Añadido</a></div></div>
+<div class="video-time"><span id="video-run-time-V9uaTQS-RkM">0:40</span></div></div></div></div>
+
+		<div class="video-main-content" id="video-main-content-V9uaTQS-RkM">
+
+
+			<div  class="video-title ">
+				<div class="video-short-title">
+						<span id="translated_short_prefix_V9uaTQS-RkM" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-short-title-V9uaTQS-RkM" href="/watch?v=V9uaTQS-RkM&feature=PlayList&p=C821D2B210EBF26E&index=19"  title="Choose (animated monolouge from Trainspotting)" rel="nofollow">Choose (animated monolouge from ...</a>
+				</div>
+				<div class="video-long-title">
+						<span id="translated_long_prefix_V9uaTQS-RkM" style="font-size: 10px;" class="hid">[TRADUCIDO]</span>
+						<a id="video-long-title-V9uaTQS-RkM" href="/watch?v=V9uaTQS-RkM&feature=PlayList&p=C821D2B210EBF26E&index=19"  title="Choose (animated monolouge from Trainspotting)" rel="nofollow">Choose (animated monolouge from Trainspotting)</a>
+				</div>
+			</div>
+
+				<div id="video-description-V9uaTQS-RkM"  class="video-description">
+					Typographic motion graphics piece based on Ewan McGregor's monologue from the movi...
+				</div>
+
+
+
+			<div class="video-facets">
+
+					<span id="video-average-rating-V9uaTQS-RkM" class="video-rating-list ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+						<span id="video-added-time-V9uaTQS-RkM" class="video-date-added">hace 1 año</span>
+
+					<span id="video-num-views-V9uaTQS-RkM" class="video-view-count">816 reproducciones</span>
+
+					<span class="video-username"><a id="video-from-username-V9uaTQS-RkM" class="hLink"  href="/user/maguimovi">maguimovi</a></span>
+
+
+					<span id="video-average-rating-V9uaTQS-RkM" class="video-rating-grid ">
+									
+
+	<div>
+
+	
+<button class="master-sprite ratingVS ratingVS-5.0" title="5.0"></button>
+
+
+
+	</div>
+
+
+					</span>
+
+
+			</div>	
+
+		</div>	
+
+		<div class="video-clear-list-left"></div>
+
+
+
+	</div>	
+</div>	
+
+
+	</div>
+
+</div>
+<div class="searchFooterBox">
+				<div class="pagingDiv">
+
+
+
+
+				<span class="pagerCurrent">1</span>
+
+						<a href='http://www.youtube.com/view_play_list?p=C821D2B210EBF26E&page=2' class="pagerNotCurrent" >
+2</a>
+
+						<a href='http://www.youtube.com/view_play_list?p=C821D2B210EBF26E&page=3' class="pagerNotCurrent" >
+3</a>
+
+						<a href='http://www.youtube.com/view_play_list?p=C821D2B210EBF26E&page=4' class="pagerNotCurrent" >
+4</a>
+
+
+
+
+
+					<a href='http://www.youtube.com/view_play_list?p=C821D2B210EBF26E&page=2' class="pagerNotCurrent" >
+Siguiente</a>
+
+
+		</div>
+
+
+</div>
+
+
+	<!-- begin footer section -->
+		<div class="clear"></div>
+	
+	<div id="footer">
+		<div class="search">
+			<div class="form-wrapper">
+				
+	<form autocomplete="off" class="search-form" action="/results" method="get" name="footer-search-form">
+		<input id="footer-search-term" class="search-term" name="search_query" type="text"  onkeyup = "top.goog.i18n.bidi.setDirAttribute(event,this)"  value="" maxlength="128"  onfocus="addClass(this, 'search-term-focus')" onblur="removeClass(this, 'search-term-focus')">
+			<input id="search-type-footer" name="search_type" type="hidden" value="">
+	<a class="yt-button yt-button-primary" id="" style="" href="#" onclick="document.searchForm.submit(); return false;"><span>Buscar</span></a>
+
+	</form>
+
+			</div>
+		</div>
+		<div class="links">
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					<th >YouTube</th>
+					<th >Programas</th>
+					<th >Ayuda</th>
+						<th>Política</th>
+					<th >Descubrir</th>
+				</tr>
+				<tr>
+					<td><a href="/t/contact_us" 
+>Ponte en contacto con nosotros</a></td>
+					<td ><a href="/t/advertising" 
+>Publicidad</a></td>
+					<td><a href="http://www.google.com/support/youtube/bin/static.py?page=start.cs&hl=es-ES" 
+>Recursos de ayuda</a></td>
+					<td ><a href="/t/privacy" 
+>Política de privacidad</a></td>
+					<td><a href="/mobile" 
+>YouTube en tu móvil</a></td>
+				</tr>
+				<tr>
+					<td ><a href="/t/about" 
+>Sobre la empresa</a></td>
+							<td ><a href="http://code.google.com/intl/es-ES/apis/youtube/overview.html" 
+>Desarrolladores</a></td>
+					<td><a href="/t/yt_handbook_home" 
+>Manual de YouTube</a></td>
+						<td ><a href="/t/terms" 
+>Términos de uso</a></td>
+					<td><a href="/youtubeonyoursite" 
+>YouTube en tu sitio</a></td>
+				</tr>
+				<tr>
+					<td><a href="/press_room" 
+>Sala de prensa</a></td>
+					<td><a href="/partners" 
+>Asociaciones</a></td>
+					<td><a href="http://www.google.com/support/forum/p/youtube?hl=es" 
+>Foros de ayuda de la comunidad</a></td>
+					<td><a href="/t/copyright_notice" 
+>Avisos de copyright</a></td>
+					<td><a href="/youtubeonyourtv" 
+>YouTube en tu tele</a></td>
+				</tr>
+				<tr>
+					<td><a href="http://ytbizblog.blogspot.com/" 
+>Blog comercial</a></td>
+					<td><a href="/t/content_management" 
+>Sistema de gestión de contenido</a></td>
+					<td ><a href="http://www.google.com/support/youtube/bin/request.py?contact_type=abuse&hl=es-ES" 
+>Centro de seguridad</a></td>
+					<td><a href="/t/community_guidelines" 
+>Normas de la comunidad</a></td>
+					<td><a href="/t/rss_feeds" 
+>Canales RSS de YouTube</a></td>
+				</tr>
+				<tr>
+					<td><a href="/blog" 
+>Blog de YouTube</a></td>
+					<td colspan="3"></td>
+					<td ><a href="/testtube" 
+>TestTube</a></td>
+				</tr>
+			</table>
+		</div>
+			<div class="google-home">
+				<a href="http://www.google.es/webmasters/igoogle/youtube.html">Añadir YouTube a tu página principal de Google</a>
+			</div>
+	</div>
+	<div id="copyright">
+		&copy; 2009 YouTube, LLC
+	</div>
+
+	<!-- end footer section -->
+
+	
+</div> <!-- end baseDiv -->
+
+
+
+
+
+<a name="pageBottom"></a>
+
+
+
+	
+
+
+
+</body>
+	<script type="text/javascript">
+		window.setTimeout(
+			"window.google.ac.install(document.searchForm,document.searchForm.search_query,'yt','es','cerrar', \
+			'Sugerencias', \
+			'Búsqueda en la Web', \
+			-1, \
+			false)", 100);
+	</script>
+
+
+
+</html>
