@@ -9,11 +9,16 @@
 
 parse_youtube_video(Body) ->
   Tree = mochiweb_html:parse(Body),
-	Imgs = mochiweb_xpath:execute("//img/@src", Tree),
-	{Imgs}.
+	Embed = mochiweb_xpath:execute("//input[@id=embed_code]", Tree),
+	{Embed}.
 
 %% Tests
 test_video_parsing() ->
 	{ok, Data} = file:read_file(filename:absname_join("data", "watch_choose_trainspotting")),
-	{ok, Info} = parse_youtube_video(Data),
-	[Info].
+	Expect = dict:from_list([
+			{title, "Choose (Trainspotting)"},
+			{embed_code, "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/DbGhC47NSmY&hl=es&fs=1\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/DbGhC47NSmY&hl=es&fs=1\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"425\" height=\"344\"></embed></object>"},
+			{url, "http://www.youtube.com/v/DbGhC47NSmY&hl=es&fs=1"}
+			]),
+	{ok, Result} = parse_youtube_video(Data),
+	Result.
