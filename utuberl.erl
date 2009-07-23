@@ -9,8 +9,10 @@
 
 -record(utube_video,{
   title,
+  video_id,
   url,
   video_url,
+  tags=[],
   embed_code
 }).
 
@@ -18,8 +20,13 @@ parse_youtube_video(Body) ->
   Tree = mochiweb_html:parse(Body),
   [Url|_] = mochiweb_xpath:execute(".//input[@id=\"watch-url-field\"]/@value", Tree),
   [Embed|_] = mochiweb_xpath:execute(".//input[@id=\"embed_code\"]/@value", Tree),
-  [{_H1, _Attrs, [Title| _Others]} |_] = mochiweb_xpath:execute(".//div[@id=\"watch-vid-title\"]/h1", Tree),
-  {ok, #utube_video{title=Title,url=Url,embed_code=Embed} }.
+  [Title| _] = mochiweb_xpath:execute(".//div[@id=\"watch-vid-title\"]/h1/*", Tree),
+  Tags = mochiweb_xpath:execute(".//div[@id=\"watch-video-tags\"]/a/*", Tree),
+  [Video_url| _] = mochiweb_xpath:execute(".//param[@name=\"movie\"]/@value", mochiweb_html:parse(Embed)),
+  V_url = binary_to_list(Video_url),
+  Video_id = string:sub_string(V_url, string:rstr(V_url, "/") + 1),
+  {ok, #utube_video{title=Title,url=Url,tags=Tags,
+	  embed_code=Embed,video_url=Video_url,video_id=Video_id} }.
 
 %% Tests
 test_video_parsing() ->
